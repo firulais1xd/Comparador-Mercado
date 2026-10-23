@@ -1,40 +1,47 @@
 {
-  "actualizado": "2026-10-23T09:37-05:00",
+  "actualizado": "2026-10-23T09:41-05:00",
   "tiendas": {
     "Olímpica": {
       "encontrados": 19,
       "total": 20,
-      "errores": []
+      "errores": [],
+      "sin_coincidencia": {
+        "Sal": [
+          "SALERO SAL CRISTAL MARINA REFINADA 150 g"
+        ]
+      }
     },
     "Éxito": {
       "encontrados": 19,
       "total": 20,
-      "errores": []
+      "errores": [],
+      "sin_coincidencia": {
+        "Huevos": []
+      }
     },
     "Carulla": {
       "encontrados": 19,
       "total": 20,
-      "errores": []
+      "errores": [],
+      "sin_coincidencia": {
+        "Huevos": []
+      }
     },
     "Jumbo": {
-      "encontrados": 0,
+      "encontrados": 19,
       "total": 20,
-      "errores": [
-        "Arroz blanco: Failed to perform, curl: (60) SSL certificate problem: unable to get local issuer certificate. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.",
-        "Aceite vegetal: Failed to perform, curl: (60) SSL certificate problem: unable to get local issuer certificate. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.",
-        "Azúcar blanca: Failed to perform, curl: (60) SSL certificate problem: unable to get local issuer certificate. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.",
-        "(se omiten los demás productos de esta tienda)"
-      ]
+      "errores": [],
+      "sin_coincidencia": {
+        "Sal": []
+      }
     },
     "Metro": {
-      "encontrados": 0,
+      "encontrados": 19,
       "total": 20,
-      "errores": [
-        "Arroz blanco: Failed to perform, curl: (60) SSL certificate problem: unable to get local issuer certificate. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.",
-        "Aceite vegetal: Failed to perform, curl: (60) SSL certificate problem: unable to get local issuer certificate. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.",
-        "Azúcar blanca: Failed to perform, curl: (60) SSL certificate problem: unable to get local issuer certificate. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.",
-        "(se omiten los demás productos de esta tienda)"
-      ]
+      "errores": [],
+      "sin_coincidencia": {
+        "Sal": []
+      }
     }
   }
 }
