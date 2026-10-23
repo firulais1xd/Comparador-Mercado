@@ -73,10 +73,10 @@
   rango: [0.2, 2]
 
 - nombre: Lentejas
-  buscar: lentejas
+  buscar: [lentejas, lenteja, lentejas 500 g]
   empieza: [lenteja*]
   requiere: [lenteja*]
-  excluye: [lata, enlatada, cocida, cocidas, pasta, sopa, snack, rojas, listas, preparadas, harina, chips, zanahoria, papa, con, guiso, arroz]
+  excluye: [lata, enlatada, cocida, cocidas, pasta, sopa, snack, rojas, listas, preparadas, harina, chips, zanahoria, papa, con, guiso, arroz, tostadas, horneadas]
   unidad: kg
   referencia: 0.5
   rango: [0.2, 3]

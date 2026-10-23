@@ -10,6 +10,17 @@ Los commits automáticos "Precios del AAAA-MM-DD" solo actualizan `data/` y no s
 
 ---
 
+## v0.1.3 — 2026-10-23
+
+**Motivo:** en la tercera ejecución, Olímpica, Jumbo y Metro tuvieron 20/20 productos y Éxito y Carulla 19/20. Les faltaban las lentejas, porque su buscador solo devolvía lentejas preparadas o en snack.
+
+**Cambios:**
+- `config/productos.yml`: Lentejas usa tres búsquedas ("lentejas", "lenteja", "lentejas 500 g") y excluye las tostadas u horneadas.
+
+**Cómo verificar:** en la siguiente ejecución diaria, Lentejas no debería aparecer en "sin_coincidencia" de Éxito ni de Carulla en `data/estado.json`.
+
+---
+
 ## v0.1.2 — 2026-10-23
 
 **Motivo:** la segunda ejecución confirmó que Jumbo y Metro ya funcionan (19/20 productos), pero aún se colaban productos que solo mencionan el ingrediente ("Caladitos de mantequilla", "Cazuela de lentejas"), y las búsquedas de huevos y sal no devolvían nada en algunas tiendas.
