@@ -10,6 +10,18 @@ Los commits automáticos "Precios del AAAA-MM-DD" solo actualizan `data/` y no s
 
 ---
 
+## v0.1.4 — 2026-10-23
+
+**Motivo:** el bot de Telegram no enviaba mensajes, y desde fuera no se podía saber por qué (los registros de Actions no estaban accesibles).
+
+**Cambios:**
+- `src/telegram.py`: registra el resultado de cada envío: si hay token, si se detectó el chat, cuántos mensajes tenía el bot en su bandeja, cuántos se enviaron y los errores que devolvió Telegram. No guarda el token ni el número de chat.
+- `src/main.py`: ese registro queda en la sección `"telegram"` de `data/estado.json`.
+
+**Cómo verificar:** después de una ejecución, `data/estado.json` muestra el estado de Telegram.
+
+---
+
 ## v0.1.3 — 2026-10-23
 
 **Motivo:** en la tercera ejecución, Olímpica, Jumbo y Metro tuvieron 20/20 productos y Éxito y Carulla 19/20. Les faltaban las lentejas, porque su buscador solo devolvía lentejas preparadas o en snack.

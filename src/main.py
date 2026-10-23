@@ -204,6 +204,9 @@ def main():
     resumen = os.getenv("RESUMEN", "").lower() in ("1", "true", "si", "sí")
     if resumen or ahora.weekday() == 0:          # lunes, o ejecución manual
         telegram.enviar(mensaje_resumen(hoy_filas, estado, url_pagina()))
+    datos = json.loads(ESTADO.read_text(encoding="utf-8"))
+    datos["telegram"] = telegram.estado
+    ESTADO.write_text(json.dumps(datos, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"Listo: {len(hoy_filas)} precios, {len(alertas)} alertas.")
 
 
