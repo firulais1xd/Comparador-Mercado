@@ -10,6 +10,23 @@ Los commits automáticos "Precios del AAAA-MM-DD" solo actualizan `data/` y no s
 
 ---
 
+## v0.1.2 — 2026-10-23
+
+**Motivo:** la segunda ejecución confirmó que Jumbo y Metro ya funcionan (19/20 productos), pero aún se colaban productos que solo mencionan el ingrediente ("Caladitos de mantequilla", "Cazuela de lentejas"), y las búsquedas de huevos y sal no devolvían nada en algunas tiendas.
+
+**Cambios:**
+- `src/medidas.py`: nueva opción `empieza`, para exigir que el nombre comience por cierta palabra.
+- `src/main.py`: `buscar` puede ser una lista de búsquedas; los resultados se combinan.
+- `config/productos.yml`:
+  - `empieza` en Huevos, Lentejas, Mantequilla, Sal y Café.
+  - Búsquedas más generales para Huevos ("huevos") y Sal ("sal", "sal refisal").
+  - Café: se excluyen los sobres individuales (Kolado), que confundían el cálculo por kilo.
+- `tests/test_medidas.py`: prueba de `empieza`.
+
+**Cómo verificar:** en `data/estado.json` no debería aparecer Huevos ni Sal en "sin_coincidencia", y Mantequilla y Lentejas deberían ser los productos básicos en todas las tiendas.
+
+---
+
 ## v0.1.1 — 2026-10-23
 
 **Motivo:** en la primera ejecución real, Olímpica, Éxito y Carulla respondieron (19/20 productos cada una), pero Jumbo y Metro fallaron por un error de certificado SSL, y algunos productos se emparejaron mal.

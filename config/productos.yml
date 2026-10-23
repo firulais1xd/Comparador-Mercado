@@ -3,6 +3,8 @@
 # Campos de cada producto:
 #   nombre:      cómo se muestra en la página y en Telegram
 #   buscar:      texto que se escribe en el buscador de cada tienda
+#   buscar:      también puede ser una lista de búsquedas: [sal, sal refisal]
+#   empieza:     (opcional) el nombre debe COMENZAR por una de estas palabras
 #   requiere:    palabras que DEBEN estar en el nombre del producto.
 #                "a|b" = vale cualquiera de las dos. Termina en * para aceptar el inicio de palabra (huev* = huevo, huevos).
 #   excluye:     palabras que descartan el producto (evita confundir "sal" con "salsa", etc.)
@@ -45,7 +47,8 @@
   rango: [0.18, 7]
 
 - nombre: Huevos
-  buscar: huevos rojos
+  buscar: [huevos, huevos rojos]
+  empieza: [huev*]
   requiere: [huev*]
   excluye: [codorniz, chocolate, pascua, liquido, kinder, sorpresa, cocidos, pasta, fideos]
   unidad: und
@@ -54,8 +57,9 @@
 
 - nombre: Café molido
   buscar: cafe molido
+  empieza: [cafe]
   requiere: [cafe, molido]
-  excluye: [capsulas, capsula, grano, liofilizado, instantaneo, soluble, descafeinado, sobres, cafetera]
+  excluye: [capsulas, capsula, grano, liofilizado, instantaneo, soluble, descafeinado, sobre*, cafetera, kolado, tinto*]
   unidad: kg
   referencia: 0.5
   rango: [0.12, 2.5]
@@ -70,6 +74,7 @@
 
 - nombre: Lentejas
   buscar: lentejas
+  empieza: [lenteja*]
   requiere: [lenteja*]
   excluye: [lata, enlatada, cocida, cocidas, pasta, sopa, snack, rojas, listas, preparadas, harina, chips, zanahoria, papa, con, guiso, arroz]
   unidad: kg
@@ -109,7 +114,8 @@
   rango: [0.2, 3]
 
 - nombre: Mantequilla
-  buscar: mantequilla
+  buscar: [mantequilla, mantequilla con sal]
+  empieza: [mantequilla]
   requiere: [mantequilla]
   excluye: [mani, cacao, karite, corporal, galleta*, pan*, palomit*, crema, sabor, ajo, untable, ghee, tostad*, arep*, ponqu*, croissant*, mogoll*, masa*, hojaldr*, bizcoch*, almojaban*, calado*, mantecada*, maiz, pollo, totopo*, crispet*]
   unidad: kg
@@ -141,7 +147,8 @@
   rango: [0.15, 3]
 
 - nombre: Sal
-  buscar: sal refinada
+  buscar: [sal, sal refisal]
+  empieza: [sal]
   requiere: [sal]
   excluye: [salsa, galleta, mani, papas, maiz, himalaya, rosada, marina, ajo, cebolla, parrilla, condimento, light, baja, sodio, frutos, nueces]
   unidad: kg

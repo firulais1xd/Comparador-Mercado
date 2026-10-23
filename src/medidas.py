@@ -19,10 +19,13 @@ def _coincide(palabra: str, clave: str) -> bool:
     return palabra in (clave, clave + "s", clave + "es")
 
 
-def cumple(nombre: str, requiere: list[str], excluye: list[str]) -> bool:
+def cumple(nombre: str, requiere: list[str], excluye: list[str], empieza: list[str] | None = None) -> bool:
     """True si el nombre tiene todas las palabras requeridas y ninguna excluida.
-    En `requiere`, "a|b" acepta cualquiera de las opciones."""
+    En `requiere`, "a|b" acepta cualquiera de las opciones.
+    `empieza`: el nombre debe comenzar por alguna de estas palabras (evita "Galletas de mantequilla")."""
     ws = palabras(nombre)
+    if empieza and not (ws and any(_coincide(ws[0], normalizar(str(e))) for e in empieza)):
+        return False
     for req in requiere:
         opciones = [normalizar(o) for o in str(req).split("|")]
         if not any(_coincide(w, o) for w in ws for o in opciones):

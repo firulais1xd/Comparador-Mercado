@@ -32,3 +32,10 @@ def test_cumple_palabra_completa():
     assert cumple("Pasta Doria Espagueti 500 g", ["spaghetti|espagueti"], [])
     assert cumple("Queso Costeño 500 g", ["queso", "costeno"], [])
     assert not cumple("Leche Deslactosada Entera", ["leche", "entera"], ["deslactosada"])
+
+
+def test_empieza():
+    assert cumple("Mantequilla Alpina 250 g", ["mantequilla"], [], ["mantequilla"])
+    assert not cumple("Caladitos Santa Clara Mantequilla 300 g", ["mantequilla"], [], ["mantequilla"])
+    assert not cumple("Cazuela Lentejas Tradicional 400 g", ["lenteja*"], [], ["lenteja*"])
+    assert cumple("LENTEJA OLIMPICA 1 kg", ["lenteja*"], [], ["lenteja*"])

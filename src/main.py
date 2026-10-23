@@ -43,7 +43,9 @@ def recolectar(productos, lista_tiendas, hoy: str):
         encontrados, errores, sin_match = 0, [], {}
         for p in productos:
             try:
-                candidatos = tiendas.buscar(t["url"], p["buscar"], verificar_ssl=not t.get("ssl_incompleto"))
+                busquedas = p["buscar"] if isinstance(p["buscar"], list) else [p["buscar"]]
+                candidatos = [c for b in busquedas
+                              for c in tiendas.buscar(t["url"], b, verificar_ssl=not t.get("ssl_incompleto"))]
             except Exception as e:
                 errores.append(f"{p['nombre']}: {e}")
                 if len(errores) >= 3 and encontrados == 0:   # la tienda no responde: no insistir
@@ -71,7 +73,7 @@ def elegir(candidatos, p):
     lo, hi = p.get("rango", [0, float("inf")])
     mejor = None
     for c in candidatos:
-        if not cumple(c["nombre"], p.get("requiere", []), p.get("excluye", [])):
+        if not cumple(c["nombre"], p.get("requiere", []), p.get("excluye", []), p.get("empieza")):
             continue
         q = cantidad(c["nombre"], p["unidad"])
         if not q or not (lo <= q <= hi):
