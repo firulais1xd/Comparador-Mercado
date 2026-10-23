@@ -1,0 +1,23 @@
+# Tiendas con venta en línea en Barranquilla.
+# Todas usan la plataforma VTEX, que ofrece un buscador de catálogo público.
+# Para desactivar una tienda, pon `activa: false`.
+
+- nombre: Olímpica
+  url: https://www.olimpica.com
+  activa: true
+
+- nombre: Éxito
+  url: https://www.exito.com
+  activa: true
+
+- nombre: Carulla
+  url: https://www.carulla.com
+  activa: true
+
+- nombre: Jumbo
+  url: https://www.tiendasjumbo.co
+  activa: true
+
+- nombre: Metro
+  url: https://www.tiendasmetro.co
+  activa: true

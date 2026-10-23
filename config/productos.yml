@@ -1,0 +1,173 @@
+# Productos de la canasta que se comparan cada día.
+#
+# Campos de cada producto:
+#   nombre:      cómo se muestra en la página y en Telegram
+#   buscar:      texto que se escribe en el buscador de cada tienda
+#   requiere:    palabras que DEBEN estar en el nombre del producto.
+#                "a|b" = vale cualquiera de las dos. Termina en * para aceptar el inicio de palabra (huev* = huevo, huevos).
+#   excluye:     palabras que descartan el producto (evita confundir "sal" con "salsa", etc.)
+#   unidad:      kg, l o und. Se compara el precio por esta unidad, así importa poco el tamaño del paquete.
+#   referencia:  cantidad que normalmente compras (para calcular el valor de la canasta)
+#   rango:       [mínimo, máximo] de tamaño aceptado, en la unidad indicada
+#
+# Para agregar un producto, copia uno parecido y ajústalo.
+
+- nombre: Arroz blanco
+  buscar: arroz blanco
+  requiere: [arroz]
+  excluye: [integral, pollo, cocido, listo, harina, galleta, galletas, leche, vinagre, salsa, parboil, parboiled, sushi, basmati, jazmin, arborio, salvaje, snack, tortas, inflado, bebida]
+  unidad: kg
+  referencia: 1
+  rango: [0.45, 5]
+
+- nombre: Aceite vegetal
+  buscar: aceite vegetal
+  requiere: [aceite]
+  excluye: [oliva, coco, aguacate, spray, motor, bebe, corporal, almendras, cabello, capilar, sesamo, ajonjoli, aerosol, masaje, cocos]
+  unidad: l
+  referencia: 1
+  rango: [0.4, 5]
+
+- nombre: Azúcar blanca
+  buscar: azucar blanca
+  requiere: [azucar]
+  excluye: [morena, light, stevia, pulverizada, sustituto, sin, glass, endulzante, impalpable, organica, mascabado]
+  unidad: kg
+  referencia: 1
+  rango: [0.45, 5]
+
+- nombre: Leche entera
+  buscar: leche entera
+  requiere: [leche, entera]
+  excluye: [polvo, condensada, deslactosada, saborizada, chocolate, chocolatada, fresa, coco, almendra, avena, arequipe, crema, kumis, yogurt, evaporada, vainilla, cafe]
+  unidad: l
+  referencia: 1
+  rango: [0.18, 7]
+
+- nombre: Huevos
+  buscar: huevos rojos
+  requiere: [huev*]
+  excluye: [codorniz, chocolate, pascua, liquido, kinder, sorpresa, cocidos, pasta, fideos]
+  unidad: und
+  referencia: 30
+  rango: [6, 60]
+
+- nombre: Café molido
+  buscar: cafe molido
+  requiere: [cafe, molido]
+  excluye: [capsulas, capsula, grano, liofilizado, instantaneo, soluble, descafeinado, sobres, cafetera]
+  unidad: kg
+  referencia: 0.5
+  rango: [0.12, 2.5]
+
+- nombre: Spaghetti
+  buscar: pasta spaghetti
+  requiere: [spaghetti|espagueti|espaguetis|spaguetti]
+  excluye: [integral, salsa, sin, gluten, arroz, lenteja, garbanzo, quinua, verde, espinaca, lista]
+  unidad: kg
+  referencia: 0.5
+  rango: [0.2, 2]
+
+- nombre: Lentejas
+  buscar: lentejas
+  requiere: [lenteja*]
+  excluye: [lata, enlatada, cocida, cocidas, pasta, sopa, snack, rojas, listas, preparadas, harina, chips]
+  unidad: kg
+  referencia: 0.5
+  rango: [0.2, 3]
+
+- nombre: Fríjol rojo
+  buscar: frijol rojo
+  requiere: [frijol*, rojo*]
+  excluye: [lata, enlatado, cocido, cocidos, refrito, refritos, antioqueno, sopa, preparado, listos, chips, harina]
+  unidad: kg
+  referencia: 0.5
+  rango: [0.2, 3]
+
+- nombre: Harina de maíz precocida
+  buscar: harina de maiz precocida
+  requiere: [harina, maiz]
+  excluye: [trigo, arroz, tortilla, mezcla, pancake, maizena, fecula]
+  unidad: kg
+  referencia: 1
+  rango: [0.4, 5]
+
+- nombre: Atún en lata
+  buscar: atun en agua
+  requiere: [atun]
+  excluye: [perro, perros, gato, gatos, mascota, ensalada, salsa, pate, galleta, pasta]
+  unidad: kg
+  referencia: 0.16
+  rango: [0.08, 2]
+
+- nombre: Panela
+  buscar: panela
+  requiere: [panela]
+  excluye: [bebida, limon, instantanea, aguapanela, galleta, galletas, saborizada, jengibre]
+  unidad: kg
+  referencia: 0.5
+  rango: [0.2, 3]
+
+- nombre: Mantequilla
+  buscar: mantequilla
+  requiere: [mantequilla]
+  excluye: [mani, cacao, karite, corporal, galleta, galletas, pan, palomitas, crema, sabor, ajo, untable, ghee]
+  unidad: kg
+  referencia: 0.25
+  rango: [0.1, 1.5]
+
+- nombre: Queso costeño
+  buscar: queso costeño
+  requiere: [queso, costeno]
+  excluye: [rallado, arepa, arepas, pan, galleta, bunuelo, bunuelos, palito, palitos, deditos]
+  unidad: kg
+  referencia: 0.5
+  rango: [0.2, 3]
+
+- nombre: Pan tajado
+  buscar: pan tajado
+  requiere: [pan, tajado]
+  excluye: [integral, rallado, sin, gluten, arabe, perro, hamburguesa, tostado, multicereal, avena, queso, uvas, pasas]
+  unidad: kg
+  referencia: 0.6
+  rango: [0.2, 1.5]
+
+- nombre: Avena en hojuelas
+  buscar: avena en hojuelas
+  requiere: [avena]
+  excluye: [bebida, liquida, galleta, galletas, leche, jabon, crema, cereal, molida, instantanea, barra, barras, lista, sabor]
+  unidad: kg
+  referencia: 0.5
+  rango: [0.15, 3]
+
+- nombre: Sal
+  buscar: sal refinada
+  requiere: [sal]
+  excluye: [salsa, galleta, mani, papas, maiz, himalaya, rosada, marina, ajo, cebolla, parrilla, condimento, light, baja, sodio, frutos, nueces]
+  unidad: kg
+  referencia: 1
+  rango: [0.4, 5]
+
+- nombre: Papel higiénico
+  buscar: papel higienico
+  requiere: [papel, higienico]
+  excluye: [humedo, humedos, toallas, cocina, servilletas, panuelos, facial, dispensador]
+  unidad: und
+  referencia: 12
+  rango: [4, 48]
+
+- nombre: Detergente en polvo
+  buscar: detergente en polvo
+  requiere: [detergente, polvo]
+  excluye: [liquido, lavaloza, loza, suavizante, cloro, jabon, barra]
+  unidad: kg
+  referencia: 1
+  rango: [0.4, 10]
+
+- nombre: Crema dental
+  buscar: crema dental
+  requiere: [crema, dental]
+  excluye: [cepillo, cepillos, kit, enjuague, nino, ninos, infantil, bebe, seda, blanqueador]
+  unidad: l
+  referencia: 0.1
+  rango: [0.05, 0.6]
