@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-23T09:44-05:00",
+  "actualizado": "2026-10-23T09:57-05:00",
   "tiendas": {
     "Olímpica": {
       "encontrados": 20,
@@ -8,34 +8,16 @@
       "sin_coincidencia": {}
     },
     "Éxito": {
-      "encontrados": 19,
+      "encontrados": 20,
       "total": 20,
       "errores": [],
-      "sin_coincidencia": {
-        "Lentejas": [
-          "Snack ESNATOS lentejas naturales (35  gr)",
-          "Cazuela Lentejas Tradicional  PURO VERDE 400  gr",
-          "Lentejas SEEDS 4.7 tostadas horneadas (150  gr)",
-          "Lentejas Con Zanahoria Y Papa SAN JORGE 300  gr",
-          "Pastas TAEQ sedani de lentejas y arroz (250  gr)",
-          "Lentejas Cocidas Extra EL CORTE INGLÉS MARCA EXCLUSIV 400  gr"
-        ]
-      }
+      "sin_coincidencia": {}
     },
     "Carulla": {
-      "encontrados": 19,
+      "encontrados": 20,
       "total": 20,
       "errores": [],
-      "sin_coincidencia": {
-        "Lentejas": [
-          "Snack ESNATOS lentejas naturales (35  gr)",
-          "Lentejas SEEDS 4.7 tostadas horneadas (150  gr)",
-          "Cazuela Lentejas Tradicional  PURO VERDE 400  gr",
-          "Lentejas Con Zanahoria Y Papa SAN JORGE 300  gr",
-          "Lentejas Cocidas Extra EL CORTE INGLÉS MARCA EXCLUSIV 400  gr",
-          "Pastas TAEQ sedani de lentejas y arroz (250  gr)"
-        ]
-      }
+      "sin_coincidencia": {}
     },
     "Jumbo": {
       "encontrados": 20,
