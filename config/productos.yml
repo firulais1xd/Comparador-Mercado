@@ -71,7 +71,7 @@
 - nombre: Lentejas
   buscar: lentejas
   requiere: [lenteja*]
-  excluye: [lata, enlatada, cocida, cocidas, pasta, sopa, snack, rojas, listas, preparadas, harina, chips]
+  excluye: [lata, enlatada, cocida, cocidas, pasta, sopa, snack, rojas, listas, preparadas, harina, chips, zanahoria, papa, con, guiso, arroz]
   unidad: kg
   referencia: 0.5
   rango: [0.2, 3]
@@ -95,7 +95,7 @@
 - nombre: Atún en lata
   buscar: atun en agua
   requiere: [atun]
-  excluye: [perro, perros, gato, gatos, mascota, ensalada, salsa, pate, galleta, pasta]
+  excluye: [perro, perros, gato, gatos, mascota, ensalada, salsa, pate, galleta, pasta, maiz, arveja*, verdura*, frijol*, garbanzo*]
   unidad: kg
   referencia: 0.16
   rango: [0.08, 2]
@@ -111,7 +111,7 @@
 - nombre: Mantequilla
   buscar: mantequilla
   requiere: [mantequilla]
-  excluye: [mani, cacao, karite, corporal, galleta, galletas, pan, palomitas, crema, sabor, ajo, untable, ghee]
+  excluye: [mani, cacao, karite, corporal, galleta*, pan*, palomit*, crema, sabor, ajo, untable, ghee, tostad*, arep*, ponqu*, croissant*, mogoll*, masa*, hojaldr*, bizcoch*, almojaban*, calado*, mantecada*, maiz, pollo, totopo*, crispet*]
   unidad: kg
   referencia: 0.25
   rango: [0.1, 1.5]

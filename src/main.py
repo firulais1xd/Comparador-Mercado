@@ -40,10 +40,10 @@ def cargar_yaml(nombre):
 def recolectar(productos, lista_tiendas, hoy: str):
     filas, estado = [], {}
     for t in lista_tiendas:
-        encontrados, errores = 0, []
+        encontrados, errores, sin_match = 0, [], {}
         for p in productos:
             try:
-                candidatos = tiendas.buscar(t["url"], p["buscar"])
+                candidatos = tiendas.buscar(t["url"], p["buscar"], verificar_ssl=not t.get("ssl_incompleto"))
             except Exception as e:
                 errores.append(f"{p['nombre']}: {e}")
                 if len(errores) >= 3 and encontrados == 0:   # la tienda no responde: no insistir
@@ -54,10 +54,15 @@ def recolectar(productos, lista_tiendas, hoy: str):
             if mejor:
                 encontrados += 1
                 filas.append({"fecha": hoy, "producto": p["nombre"], "tienda": t["nombre"], **mejor})
-        estado[t["nombre"]] = {"encontrados": encontrados, "total": len(productos), "errores": errores[:5]}
+            else:   # diagnóstico: qué devolvió la tienda, para poder ajustar los filtros
+                sin_match[p["nombre"]] = [c["nombre"] for c in candidatos[:6]]
+        estado[t["nombre"]] = {"encontrados": encontrados, "total": len(productos), "errores": errores[:5],
+                               "sin_coincidencia": sin_match}
         print(f"{t['nombre']}: {encontrados}/{len(productos)} productos" + (f" · {len(errores)} errores" if errores else ""))
         for e in errores[:3]:
             print("   ", e)
+        for prod, nombres in sin_match.items():
+            print(f"    sin coincidencia para {prod}. La tienda devolvió: {nombres}")
     return filas, estado
 
 

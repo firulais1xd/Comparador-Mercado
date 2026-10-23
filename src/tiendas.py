@@ -10,14 +10,15 @@ except ImportError:  # pragma: no cover
     _KW = {"headers": {"User-Agent": "Mozilla/5.0 (Linux; Android 14) Chrome/130 Mobile"}}
 
 
-def buscar(url_tienda: str, texto: str, cantidad: int = 40) -> list[dict]:
-    """Devuelve los productos disponibles de la tienda para la búsqueda, en un formato simple."""
+def buscar(url_tienda: str, texto: str, cantidad: int = 50, verificar_ssl: bool = True) -> list[dict]:
+    """Devuelve los productos disponibles de la tienda para la búsqueda, en un formato simple.
+    `verificar_ssl=False` solo para tiendas cuyo sitio envía el certificado incompleto (lectura de precios públicos)."""
     url = (f"{url_tienda.rstrip('/')}/api/catalog_system/pub/products/search"
            f"?ft={quote(texto)}&_from=0&_to={cantidad - 1}")
     ultimo_error = None
     for intento in range(3):
         try:
-            r = http.get(url, timeout=30, **_KW)
+            r = http.get(url, timeout=30, verify=verificar_ssl, **_KW)
             if r.status_code in (200, 206):
                 return list(_extraer(r.json(), url_tienda))
             ultimo_error = f"HTTP {r.status_code}"

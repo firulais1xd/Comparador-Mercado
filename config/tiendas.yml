@@ -1,6 +1,7 @@
 # Tiendas con venta en línea en Barranquilla.
 # Todas usan la plataforma VTEX, que ofrece un buscador de catálogo público.
 # Para desactivar una tienda, pon `activa: false`.
+# `ssl_incompleto: true`: el sitio no envía su certificado completo; se acepta igual (solo se leen precios públicos).
 
 - nombre: Olímpica
   url: https://www.olimpica.com
@@ -17,7 +18,9 @@
 - nombre: Jumbo
   url: https://www.tiendasjumbo.co
   activa: true
+  ssl_incompleto: true
 
 - nombre: Metro
   url: https://www.tiendasmetro.co
   activa: true
+  ssl_incompleto: true

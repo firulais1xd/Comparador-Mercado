@@ -10,6 +10,23 @@ Los commits automáticos "Precios del AAAA-MM-DD" solo actualizan `data/` y no s
 
 ---
 
+## v0.1.1 — 2026-10-23
+
+**Motivo:** en la primera ejecución real, Olímpica, Éxito y Carulla respondieron (19/20 productos cada una), pero Jumbo y Metro fallaron por un error de certificado SSL, y algunos productos se emparejaron mal.
+
+**Cambios:**
+- `src/tiendas.py`: opción para aceptar sitios que envían el certificado SSL incompleto. Se pidieron 50 resultados por búsqueda en vez de 40.
+- `config/tiendas.yml`: `ssl_incompleto: true` en Jumbo y Metro. Solo se leen precios públicos; no se envían datos.
+- `config/productos.yml`:
+  - Mantequilla: se excluyen productos que solo "saben a" mantequilla (tostadas, arepas, pancitos, ponqués, etc.).
+  - Lentejas: se excluyen las preparadas ("con zanahoria y papa").
+  - Atún: se excluyen las mezclas con maíz o verduras.
+- `src/main.py`: cuando una tienda no tiene coincidencia para un producto, el registro y `data/estado.json` muestran qué devolvió la tienda, para poder ajustar los filtros.
+
+**Cómo verificar:** en la siguiente ejecución, Jumbo y Metro deberían mostrar productos, y Mantequilla y Lentejas deberían ser los productos básicos.
+
+---
+
 ## v0.1.0 — 2026-10-23
 
 **Motivo:** primera versión. Comparar precios de mercado en Barranquilla, recibir alertas por Telegram y ver gráficas en una página web.
