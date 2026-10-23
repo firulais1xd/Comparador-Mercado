@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-23T09:57-05:00",
+  "actualizado": "2026-10-23T10:11-05:00",
   "tiendas": {
     "Olímpica": {
       "encontrados": 20,
@@ -31,5 +31,13 @@
       "errores": [],
       "sin_coincidencia": {}
     }
+  },
+  "telegram": {
+    "token_configurado": true,
+    "chat_id_secreto": false,
+    "chat_detectado": true,
+    "mensajes_en_bandeja": 3,
+    "enviados": 2,
+    "errores": []
   }
 }
