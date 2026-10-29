@@ -499,103 +499,203 @@ fecha,producto,tienda,nombre,marca,precio,precio_lista,cantidad,unidad,precio_un
 2026-10-27,Spaghetti,Metro,Pasta spaghetti Pugliese x1000g,PUGLIESE,5290.0,5290.0,1.0,kg,5290.0,2645.0,https://www.jumbocolombia.com/pasta-spaghetti-puglies-x-1000-g/p
 2026-10-27,Spaghetti,Olímpica,PASTA SPAGHETTI FERRARA 500G,Sin Marca,3990.0,3990.0,0.5,kg,7980.0,3990.0,https://www.olimpica.com/pasta-spaghetti-ferrara-500g/p
 2026-10-27,Spaghetti,Éxito,Pastas PAN spaghetti tamaño familiar (1000  gr),PAN,4384.0,6550.0,1.0,kg,4384.0,2192.0,https://tienda.exito.com/pasta-pan-spaghetti-tamano-familiar-1000-gr-3206257/p
-2026-10-28,Aceite vegetal,Carulla,Aceite FRESCAMPO vegetal multiusos (3000  ml),FRESCAMPO,19950,19950,3.0,l,6650.0,6650,https://secure.carulla.com/aceite-vegetal-frescampo-3000-ml-3082931/p
-2026-10-28,Aceite vegetal,Jumbo,Aceite Cuisine&Co Mezcla Vegetal x3000Ml,CUISINE & CO NBE MP,22890,22890,3.0,l,7630.0,7630,https://www.jumbocolombia.com/aceite-cuisine-co-mezcla-vegetal-x3000ml/p
-2026-10-28,Aceite vegetal,Metro,Aceite Cuisine&Co Mezcla Vegetal x3000Ml,CUISINE & CO NBE MP,22890,22890,3.0,l,7630.0,7630,https://www.jumbocolombia.com/aceite-cuisine-co-mezcla-vegetal-x3000ml/p
-2026-10-28,Aceite vegetal,Olímpica,Aceite Medalla de Oro Mezcla Vegetal 3 Lt ACEITE MEDALLA ORO MEZC 3 L.,Medalla De Oro,21490,21490,3.0,l,7163.33,7163,https://www.olimpica.com/aceite-medalla-oro-mezc-3-l-7701008624894-2195130/p
-2026-10-28,Aceite vegetal,Éxito,Aceite FRESCAMPO vegetal multiusos (3000  ml),FRESCAMPO,19950,19950,3.0,l,6650.0,6650,https://tienda.exito.com/aceite-vegetal-frescampo-3000-ml-3082931/p
-2026-10-28,Arroz blanco,Carulla,Arroz ROA blanco fortiplus (3000  gr),ROA,9650,12900,3.0,kg,3216.67,3217,https://secure.carulla.com/arroz-blanco-fortificado-x-3000-g-480324/p
-2026-10-28,Arroz blanco,Jumbo,Arroz Máxima Blanco x5000grs,MAXIMA,15990,15990,5.0,kg,3198.0,3198,https://www.jumbocolombia.com/arroz-maxima-blanco-x5000grs-3650929/p
-2026-10-28,Arroz blanco,Metro,Arroz Máxima Blanco x5000grs,MAXIMA,15990,15990,5.0,kg,3198.0,3198,https://www.jumbocolombia.com/arroz-maxima-blanco-x5000grs-3650929/p
-2026-10-28,Arroz blanco,Olímpica,ARROZ OLIMPICA 2500 G,Olimpica,7990,8990,2.5,kg,3196.0,3196,https://www.olimpica.com/arroz-olimpica-2500-g/p
-2026-10-28,Arroz blanco,Éxito,Arroz EKONO blanco (2000  gr),EKONO,5550,5550,2.0,kg,2775.0,2775,https://tienda.exito.com/arroz-blanco-ekono-2000-gr-3161048/p
-2026-10-28,Atún en lata,Carulla,Atún VAN CAMPS en agua  (320  gr),VAN CAMPS,14750,18600,0.32,kg,46093.75,7375,https://secure.carulla.com/atun-van-camps-agua-80g-x-4-uds-van-camps-atun-agua-320-gr-3258653/p
-2026-10-28,Atún en lata,Jumbo,Atún Isabel Lomitos Agua 3 Unidades 480g,ISABEL,21890,21890,1.44,kg,15201.39,2432,https://www.jumbocolombia.com/atun-isabel-lomitos-agua-3-unidades-480g-364189/p
-2026-10-28,Atún en lata,Metro,Atún Isabel Lomitos Agua 3 Unidades 480g,ISABEL,21890,21890,1.44,kg,15201.39,2432,https://www.jumbocolombia.com/atun-isabel-lomitos-agua-3-unidades-480g-364189/p
-2026-10-28,Atún en lata,Olímpica,Atún Van Camp's Agua 320 G X2 Unds ATUN VAN CAMP´S AGUA PACKS X2 320g,Van Camps,11490,15400,0.64,kg,17953.12,2872,https://www.olimpica.com/atun-van-camp-s-agua-packs-x2-320g/p
-2026-10-28,Atún en lata,Éxito,Lomitos de atún FRESCAMPO en agua x3und (156  gr),FRESCAMPO,8980,8980,0.468,kg,19188.03,3070,https://tienda.exito.com/lomitos-de-atun-frescampo-agua-y-sal-156-gr-3241104/p
-2026-10-28,Avena en hojuelas,Carulla,Avena en Hojuelas EKONO 500  gr,EKONO,2370,2370,0.5,kg,4740.0,2370,https://secure.carulla.com/avena-en-hojuelas-ekono-500-gr-3061024/p
-2026-10-28,Avena en hojuelas,Jumbo,Avena Cuisine&Co hojuelas tradicional x1000g,CUISINE & CO NBE MP,8590,8990,1.0,kg,8590.0,4295,https://www.jumbocolombia.com/avena-cuisine---co-hojuela-tradicional-x-1000g/p
-2026-10-28,Avena en hojuelas,Metro,Avena Cuisine&Co hojuelas tradicional x1000g,CUISINE & CO NBE MP,8590,8990,1.0,kg,8590.0,4295,https://www.jumbocolombia.com/avena-cuisine---co-hojuela-tradicional-x-1000g/p
-2026-10-28,Avena en hojuelas,Olímpica,Avena Medalla de Oro Hojuelas 400 G AVENA MEDALLA ORO HOJUEL 400g,Medalla De Oro,1687,2250,0.4,kg,4217.5,2109,https://www.olimpica.com/avena-medalla-oro-hojuel-400g/p
-2026-10-28,Avena en hojuelas,Éxito,Avena en Hojuelas EKONO 500  gr,EKONO,2350,2350,0.5,kg,4700.0,2350,https://tienda.exito.com/avena-en-hojuelas-ekono-500-gr-3061024/p
-2026-10-28,Azúcar blanca,Carulla,Azúcar MAYAGUEZ blanca (1000  gr),MAYAGUEZ,3560,4450,1.0,kg,3560.0,3560,https://secure.carulla.com/azucar-blanco-especial-x-1000-g-487804/p
-2026-10-28,Azúcar blanca,Jumbo,Azúcar Riopaila blanca x2500g,RIOPAILA,12150,12150,2.5,kg,4860.0,4860,https://www.jumbocolombia.com/azucar-blanco-riopaila-x-2500g/p
-2026-10-28,Azúcar blanca,Metro,Azúcar Riopaila blanca x2500g,RIOPAILA,12150,12150,2.5,kg,4860.0,4860,https://www.jumbocolombia.com/azucar-blanco-riopaila-x-2500g/p
-2026-10-28,Azúcar blanca,Olímpica,"Azúcar Mayagüez Blanca 2,5 Kg AZUCAR MAYAGUEZ BCA 2.5kg",Rebajon,9200,11500,2.5,kg,3680.0,3680,https://www.olimpica.com/azucar-mayaguez-bca-2-5kg/p
-2026-10-28,Azúcar blanca,Éxito,Azúcar MAYAGUEZ blanca (1000  gr),MAYAGUEZ,3560,4450,1.0,kg,3560.0,3560,https://tienda.exito.com/azucar-blanco-especial-x-1000-g-487804/p
-2026-10-28,Café molido,Carulla,Café SELLO ROJO tostado y molido (500  gr),SELLO ROJO,19725,26300,0.5,kg,39450.0,19725,https://secure.carulla.com/cafe-molido-laminado-26947/p
-2026-10-28,Café molido,Jumbo,Cafe Sello Rojo Tradicional Tostado Molido 2500g,SELLO ROJO,103000,103000,2.5,kg,41200.0,20600,https://www.jumbocolombia.com/cafe-sello-rojo-tradicional-tostado-molido-2500g-46322/p
-2026-10-28,Café molido,Metro,Cafe Sello Rojo Tradicional Tostado Molido 2500g,SELLO ROJO,103000,103000,2.5,kg,41200.0,20600,https://www.jumbocolombia.com/cafe-sello-rojo-tradicional-tostado-molido-2500g-46322/p
-2026-10-28,Café molido,Olímpica,Café Olimpica Molido 400 G CAFE OLIMPICA MOL 400 g,Olimpica,11992,15990,0.4,kg,29980.0,14990,https://www.olimpica.com/cafe-olimpica-mol-400-g/p
-2026-10-28,Café molido,Éxito,Café SELLO ROJO tostado y molido (500  gr),SELLO ROJO,19125,25500,0.5,kg,38250.0,19125,https://tienda.exito.com/cafe-molido-laminado-26947/p
-2026-10-28,Crema dental,Carulla,Crema dental Sonrident anticaries  (75  ml),Sonrident,2595,5190,0.075,l,34600.0,3460,https://secure.carulla.com/crema-dental-sonrident-anticaries-a-fresco-f-esmalte-75-ml-3178755/p
-2026-10-28,Crema dental,Jumbo,Crema Dental Family Care Triple Acción x100ml,FAMILY CARE MP,3174,5290,0.1,l,31740.0,3174,https://www.jumbocolombia.com/crema-dental-familycare-triple-accion-x100ml/p
-2026-10-28,Crema dental,Metro,Crema Dental Family Care Triple Acción x100ml,FAMILY CARE MP,3174,5290,0.1,l,31740.0,3174,https://www.jumbocolombia.com/crema-dental-familycare-triple-accion-x100ml/p
-2026-10-28,Crema dental,Olímpica,Crema Dental Suppra Care Triple Acción 100 Ml CREMA DENTAL SUPPRA CARE TRIPLE ACCION 100 ML,Suppra Care,3142,4190,0.1,l,31420.0,3142,https://www.olimpica.com/crema-dental-suppra-care-triple-accion-100-ml/p
-2026-10-28,Crema dental,Éxito,Crema dental COLGATE doble frescura (100  ml),COLGATE,5830,5830,0.1,l,58300.0,5830,https://tienda.exito.com/cremas-colgate-cremas-100-ml-3201232/p
-2026-10-28,Detergente en polvo,Carulla,Detergente en polvo EKONO multiusos aroma limón (2800  gr),EKONO,10850,10850,2.8,kg,3875.0,3875,https://secure.carulla.com/detergente-en-polvo-limon-x-2800-gr-595579/p
-2026-10-28,Detergente en polvo,Jumbo,Detergente maxima multiusos limon polvo x2800g,MAXIMA MP,11352,14190,2.8,kg,4054.29,4054,https://www.jumbocolombia.com/detergente-maxima-multiusos-limon-polvo-x2800g/p
-2026-10-28,Detergente en polvo,Metro,Detergente maxima multiusos limon polvo x2800g,MAXIMA MP,11352,14190,2.8,kg,4054.29,4054,https://www.jumbocolombia.com/detergente-maxima-multiusos-limon-polvo-x2800g/p
-2026-10-28,Detergente en polvo,Olímpica,Detergente Rindex Flores Para Mis Amores Polvo 3 Kg DETERGENTE EN POLVO RINDEX FLORES PARA MIS AMORES 3kg,Rindex,9990,9990,3.0,kg,3330.0,3330,https://www.olimpica.com/detergente-en-polvo-rindex-flores-para-mis-amores-3kg-7500435152822--2120537/p
-2026-10-28,Detergente en polvo,Éxito,Detergente en polvo EKONO multiusos aroma floral (2800  gr),EKONO,10850,10850,2.8,kg,3875.0,3875,https://tienda.exito.com/detergente-en-polvo-floral-x-2800-gr-595469/p
-2026-10-28,Fríjol rojo,Carulla,Frijol FRESCAMPO sabanero rojo (1000  gr),FRESCAMPO,11900,11900,1.0,kg,11900.0,5950,https://secure.carulla.com/frijol-sabanero-rojo-837384/p
-2026-10-28,Fríjol rojo,Jumbo,Frijol Cuisine&Co cargamanto rojo x1000g,CUISINE & CO NBE MP,12990,12990,1.0,kg,12990.0,6495,https://www.jumbocolombia.com/frijol-cuisine-co-cargamanto-rojo-x1000g/p
-2026-10-28,Fríjol rojo,Metro,Frijol Cuisine&Co cargamanto rojo x1000g,CUISINE & CO NBE MP,12990,12990,1.0,kg,12990.0,6495,https://www.jumbocolombia.com/frijol-cuisine-co-cargamanto-rojo-x1000g/p
-2026-10-28,Fríjol rojo,Olímpica,FRIJOL OLIMPICA RADICAL ROJO 1 kg,Olimpica,8372,9850,1.0,kg,8372.0,4186,https://www.olimpica.com/frijol-olimpica-radical-rojo-1-kg-7701008007680-566500/p
-2026-10-28,Fríjol rojo,Éxito,Frijol FRESCAMPO sabanero rojo (1000  gr),FRESCAMPO,11900,11900,1.0,kg,11900.0,5950,https://tienda.exito.com/frijol-sabanero-rojo-837384/p
-2026-10-28,Harina de maíz precocida,Carulla,Harina AREPASAN de maíz blanco (1000  gr),AREPASAN,2450,2890,1.0,kg,2450.0,2450,https://secure.carulla.com/arepasan-harina-de-maiz-blanca-x-1000g-718296/p
-2026-10-28,Harina de maíz precocida,Jumbo,Harina Maiz Blanco 1000g Cuisine & Co,CUISINE & CO NBE MP,2790,2990,1.0,kg,2790.0,2790,https://www.jumbocolombia.com/harina-maiz-blanco-1000g-cuisine-co-368216/p
-2026-10-28,Harina de maíz precocida,Metro,Harina Maiz Blanco 1000g Cuisine & Co,CUISINE & CO NBE MP,2790,2990,1.0,kg,2790.0,2790,https://www.jumbocolombia.com/harina-maiz-blanco-1000g-cuisine-co-368216/p
-2026-10-28,Harina de maíz precocida,Olímpica,Harina Medalla de Oro de Maíz Precocida Blanca 1 Kg HARINA MAIZ MEDALLA ORO BCA 1 kg,Medalla De Oro,1905,2540,1.0,kg,1905.0,1905,https://www.olimpica.com/harina-maiz-medalla-oro-bca-1-kg/p
-2026-10-28,Harina de maíz precocida,Éxito,Harina AREPASAN de maíz blanco (1000  gr),AREPASAN,2450,2890,1.0,kg,2450.0,2450,https://tienda.exito.com/arepasan-harina-de-maiz-blanca-x-1000g-718296/p
-2026-10-28,Huevos,Carulla,Huevos AA SUBASTA blanco (30  und),SUBASTA,16900,16900,30.0,und,563.33,16900,https://secure.carulla.com/huevo-de-30-aa-blanco-subasta-30-und-676700/p
-2026-10-28,Huevos,Jumbo,Huevos San Pio x30und,SAN PIO,12990,12990,30.0,und,433.0,12990,https://www.jumbocolombia.com/huevo-a-bandeja--30unidades-san-pio/p
-2026-10-28,Huevos,Metro,Huevos San Pio x30und,SAN PIO,12990,12990,30.0,und,433.0,12990,https://www.jumbocolombia.com/huevo-a-bandeja--30unidades-san-pio/p
-2026-10-28,Huevos,Olímpica,HUEVO X 30 UND TIPO B HUEVO X 30 UN T/B,SIN MARCA 2,14900,14900,30.0,und,496.67,14900,https://www.olimpica.com/huevo-x-30-un-t-b/p
-2026-10-28,Huevos,Éxito,Huevos A SMN rojo (30  und),SMN,14490,14490,30.0,und,483.0,14490,https://tienda.exito.com/huevo-rojo-a-x-30-insuperable-742696/p
-2026-10-28,Leche entera,Carulla,Leche FRESCAMPO entera UHT bolsa maxilitro (1100  ml),FRESCAMPO,3770,3770,1.1,l,3427.27,3427,https://secure.carulla.com/leche-frescampo-uht-entera-1100-ml-3225370/p
-2026-10-28,Leche entera,Jumbo,Leche Entera Máxima x6 Und x900ml,MAXIMA MP,18490,18490,5.4,l,3424.07,3424,https://www.jumbocolombia.com/leche-entera-maxima-x6-und-x900ml-0786481/p
-2026-10-28,Leche entera,Metro,Leche Entera Máxima x6 Und x900ml,MAXIMA MP,18490,18490,5.4,l,3424.07,3424,https://www.jumbocolombia.com/leche-entera-maxima-x6-und-x900ml-0786481/p
-2026-10-28,Leche entera,Olímpica,"Leche Medalla de Oro Uht Entera 1,1 Lt X6 Unds LECHE UHT MEDALLA ORO ENT 1.1L X6un",Medalla De Oro,21890,21890,6.6,l,3316.67,3317,https://www.olimpica.com/leche-uht-medalla-oro-ent-1-1l-x6un/p
-2026-10-28,Leche entera,Éxito,Leche FRESCAMPO entera UHT maxilitro paquete (6600  ml),FRESCAMPO,22620,22620,6.6,l,3427.27,3427,https://tienda.exito.com/leche-frescampo-uht-entera-6600-ml-3225369/p
-2026-10-28,Lentejas,Carulla,Lenteja FRESCAMPO granos seleccionados  (1000  gr),FRESCAMPO,3180,3180,1.0,kg,3180.0,1590,https://secure.carulla.com/lenteja-frescampo-x-1000-gr-837388/p
-2026-10-28,Lentejas,Jumbo,Lenteja Diana x500g,DIANA,2750,2750,0.5,kg,5500.0,2750,https://www.jumbocolombia.com/lenteja-diana-x-500g/p
-2026-10-28,Lentejas,Metro,Lenteja Diana x500g,DIANA,2750,2750,0.5,kg,5500.0,2750,https://www.jumbocolombia.com/lenteja-diana-x-500g/p
-2026-10-28,Lentejas,Olímpica,LENTEJA OLIMPICA 1 kg,Olimpica,3800,3800,1.0,kg,3800.0,1900,https://www.olimpica.com/lenteja-olimpica-1-kg-7701008001367-990477/p
-2026-10-28,Lentejas,Éxito,Lenteja FRESCAMPO granos seleccionados  (1000  gr),FRESCAMPO,3180,3180,1.0,kg,3180.0,1590,https://tienda.exito.com/lenteja-frescampo-x-1000-gr-837388/p
-2026-10-28,Mantequilla,Carulla,Mantequilla PECONELLO  (500  gr),PECONELLO,20000,20000,0.5,kg,40000.0,10000,https://secure.carulla.com/mantequilla-peconello-500-gr-3248795/p
-2026-10-28,Mantequilla,Jumbo,Mantequilla Superior pasteurizada x200g,SUPERIOR,11390,11390,0.2,kg,56950.0,14238,https://www.jumbocolombia.com/mantequilla-pasteurizada-superior-x-200-g/p
-2026-10-28,Mantequilla,Metro,Mantequilla Superior pasteurizada x200g,SUPERIOR,11390,11390,0.2,kg,56950.0,14238,https://www.jumbocolombia.com/mantequilla-pasteurizada-superior-x-200-g/p
-2026-10-28,Mantequilla,Olímpica,Mantequilla Campi con Sal 500 G + Gratis Campi 250 CERDO CHICHARRON ESP O 500g,Sin Marca,9600,12000,0.5,kg,19200.0,4800,https://www.olimpica.com/cerdo-chicharron-esp-o-500g/p
-2026-10-28,Mantequilla,Éxito,Mantequilla PECONELLO  (500  gr),PECONELLO,19800,19800,0.5,kg,39600.0,9900,https://tienda.exito.com/mantequilla-peconello-500-gr-3248795/p
-2026-10-28,Pan tajado,Carulla,Pan tajado FRESCAMPO blanco (450  gr),FRESCAMPO,2980,2990,0.45,kg,6622.22,3973,https://secure.carulla.com/pan-frescampo-450-gr-3252766/p
-2026-10-28,Pan tajado,Jumbo,Pan Máxima tajado blanco x380g,MAXIMA MP,3890,3890,0.38,kg,10236.84,6142,https://www.jumbocolombia.com/pan-maxima-tajado-blanco-x380g/p
-2026-10-28,Pan tajado,Metro,Pan Máxima tajado blanco x380g,MAXIMA MP,3890,3890,0.38,kg,10236.84,6142,https://www.jumbocolombia.com/pan-maxima-tajado-blanco-x380g/p
-2026-10-28,Pan tajado,Olímpica,Pan Olimpica Tajado Blanco Tradicional 450 G PAN-TAJ-BCO-TRADIC-OLIMPICA-450g,Olimpica,2990,2990,0.45,kg,6644.44,3987,https://www.olimpica.com/pan-taj-bco-tradic-olimpica-450g/p
-2026-10-28,Pan tajado,Éxito,Pan tajado FRESCAMPO blanco (450  gr),FRESCAMPO,2980,2980,0.45,kg,6622.22,3973,https://tienda.exito.com/pan-frescampo-450-gr-3252766/p
-2026-10-28,Panela,Carulla,Panela Redonda x 2 Und PANELA TRADICIÓN DEL CAMPO 830  gr,PANELA TRADICIÓN DEL CAMPO,7000,7000,1.66,kg,4216.87,2108,https://secure.carulla.com/panela-tradicion-del-campo-redonda-x-2-und-panela-tradicion-del-campo-830-gr-3158510/p
-2026-10-28,Panela,Jumbo,Panela Cana Dulce Redonditas x800G Pn,CANA DULCE,6890,6890,0.8,kg,8612.5,4306,https://www.jumbocolombia.com/panela-cana-dulce-redonditas-x800g-pn-364540/p
-2026-10-28,Panela,Metro,Panela Cana Dulce Redonditas x800G Pn,CANA DULCE,6890,6890,0.8,kg,8612.5,4306,https://www.jumbocolombia.com/panela-cana-dulce-redonditas-x800g-pn-364540/p
-2026-10-28,Panela,Olímpica,Panela El Trébol 1000 G X2 Unds PANELA EL TREBOL  2 UND 1000 GR,El Trebol,6750,6750,2.0,kg,3375.0,1688,https://www.olimpica.com/panela-el-trebol--2-und-1000-gr-7707224229400-2001021/p
-2026-10-28,Panela,Éxito,Panela Redonda x 2 Und PANELA TRADICIÓN DEL CAMPO 830  gr,PANELA TRADICIÓN DEL CAMPO,6780,6780,1.66,kg,4084.34,2042,https://tienda.exito.com/panela-tradicion-del-campo-redonda-x-2-und-panela-tradicion-del-campo-830-gr-3158510/p
-2026-10-28,Papel higiénico,Carulla,Papel higiénico ROSAL triple hoja XG x30 rollos (750  mts),ROSAL,36750,49000,30.0,und,1225.0,14700,https://secure.carulla.com/precio-especial-papel-rosal-higienico-triple-hoja-xg-750-mts-3252522/p
-2026-10-28,Papel higiénico,Jumbo,Papel Higiénico Nube Mega Triple Hoja X4 Rollos X30 Mts Cada Uno,NUBE,7770,7770,30.0,und,259.0,3108,https://www.jumbocolombia.com/papel-higienico-nube-mega-triple-hoja-x4-rollos-x30-mts-cada-uno/p
-2026-10-28,Papel higiénico,Metro,Papel Higiénico Nube Mega Triple Hoja X4 Rollos X30 Mts Cada Uno,NUBE,7770,7770,30.0,und,259.0,3108,https://www.jumbocolombia.com/papel-higienico-nube-mega-triple-hoja-x4-rollos-x30-mts-cada-uno/p
-2026-10-28,Papel higiénico,Olímpica,Papel Higiénico Olimpica Mega Rollo Triple Hoja 20 Mts X16 Unds P/HIG OLIMPICA BCO ECN 3H 20m X16,Olimpica,10492,13990,16.0,und,655.75,7869,https://www.olimpica.com/p-hig-olimpica-bco-ecn-3h-20m-x16/p
-2026-10-28,Papel higiénico,Éxito,Papel higiénico ELITE max resistente (18  und),ELITE,22250,22250,18.0,und,1236.11,14833,https://tienda.exito.com/papel-higienico-max-resistente-elite-18-und-3122570/p
-2026-10-28,Queso costeño,Carulla,Queso costeño FRESCAMPO entero (400  gr),FRESCAMPO,11950,11950,0.4,kg,29875.0,14938,https://secure.carulla.com/queso-costeno-entero-frescampo-entero-400-gr-3206521/p
-2026-10-28,Queso costeño,Jumbo,Queso costeño Los Pinos bloque x1000g,MARIA LA VAQUITA ROJA,28690,28690,1.0,kg,28690.0,14345,https://www.jumbocolombia.com/queso-costeño-bloque-los-pinos-x-1000-g/p
-2026-10-28,Queso costeño,Metro,Queso costeño Los Pinos bloque x1000g,MARIA LA VAQUITA ROJA,28690,28690,1.0,kg,28690.0,14345,https://www.jumbocolombia.com/queso-costeño-bloque-los-pinos-x-1000-g/p
-2026-10-28,Queso costeño,Olímpica,Queso Colanta Costeño Bloque 1 Kg QUESO COLANTA COSTEÑO BLOQUE 1kg,Colanta,28040,35050,1.0,kg,28040.0,14020,https://www.olimpica.com/queso-colanta-costeño-bloque-1kg/p
-2026-10-28,Queso costeño,Éxito,Queso costeño FRESCAMPO entero (400  gr),FRESCAMPO,11950,11950,0.4,kg,29875.0,14938,https://tienda.exito.com/queso-costeno-entero-frescampo-entero-400-gr-3206521/p
-2026-10-28,Sal,Carulla,Sal REFISAL alta pureza  (3000  gr),REFISAL,9100,9100,3.0,kg,3033.33,3033,https://secure.carulla.com/sal-refinada-x3000-gramos-refisal-3000-gr-916442/p
-2026-10-28,Sal,Jumbo,Sal Refisal bolsa x1000g,REFISAL,2950,2950,1.0,kg,2950.0,2950,https://www.jumbocolombia.com/bolsa-sal-refisal-x-1000-g/p
-2026-10-28,Sal,Metro,Sal Refisal bolsa x1000g,REFISAL,2950,2950,1.0,kg,2950.0,2950,https://www.jumbocolombia.com/bolsa-sal-refisal-x-1000-g/p
-2026-10-28,Sal,Olímpica,SAL REFISAL 1 kg,Refisal,2580,2580,1.0,kg,2580.0,2580,https://www.olimpica.com/sal-refisal-1-kg/p
-2026-10-28,Sal,Éxito,Sal REFISAL alta pureza  (1000  gr),REFISAL,2950,2950,1.0,kg,2950.0,2950,https://tienda.exito.com/sal-refinada-1000-gr-345053/p
-2026-10-28,Spaghetti,Carulla,Pastas LA NIEVE spaghetti (500  gr),LA NIEVE,2470,2470,0.5,kg,4940.0,2470,https://secure.carulla.com/spaguetti-la-nieve-500-gr-773667/p
-2026-10-28,Spaghetti,Jumbo,Pasta spaghetti Pugliese x1000g,PUGLIESE,5290,5290,1.0,kg,5290.0,2645,https://www.jumbocolombia.com/pasta-spaghetti-puglies-x-1000-g/p
-2026-10-28,Spaghetti,Metro,Pasta spaghetti Pugliese x1000g,PUGLIESE,5290,5290,1.0,kg,5290.0,2645,https://www.jumbocolombia.com/pasta-spaghetti-puglies-x-1000-g/p
-2026-10-28,Spaghetti,Olímpica,PASTA SPAGHETTI FERRARA 500G,Sin Marca,3990,3990,0.5,kg,7980.0,3990,https://www.olimpica.com/pasta-spaghetti-ferrara-500g/p
-2026-10-28,Spaghetti,Éxito,Pastas PAN spaghetti tamaño familiar (1000  gr),PAN,4384,6550,1.0,kg,4384.0,2192,https://tienda.exito.com/pasta-pan-spaghetti-tamano-familiar-1000-gr-3206257/p
+2026-10-28,Aceite vegetal,Carulla,Aceite FRESCAMPO vegetal multiusos (3000  ml),FRESCAMPO,19950.0,19950.0,3.0,l,6650.0,6650.0,https://secure.carulla.com/aceite-vegetal-frescampo-3000-ml-3082931/p
+2026-10-28,Aceite vegetal,Jumbo,Aceite Cuisine&Co Mezcla Vegetal x3000Ml,CUISINE & CO NBE MP,22890.0,22890.0,3.0,l,7630.0,7630.0,https://www.jumbocolombia.com/aceite-cuisine-co-mezcla-vegetal-x3000ml/p
+2026-10-28,Aceite vegetal,Metro,Aceite Cuisine&Co Mezcla Vegetal x3000Ml,CUISINE & CO NBE MP,22890.0,22890.0,3.0,l,7630.0,7630.0,https://www.jumbocolombia.com/aceite-cuisine-co-mezcla-vegetal-x3000ml/p
+2026-10-28,Aceite vegetal,Olímpica,Aceite Medalla de Oro Mezcla Vegetal 3 Lt ACEITE MEDALLA ORO MEZC 3 L.,Medalla De Oro,21490.0,21490.0,3.0,l,7163.33,7163.0,https://www.olimpica.com/aceite-medalla-oro-mezc-3-l-7701008624894-2195130/p
+2026-10-28,Aceite vegetal,Éxito,Aceite FRESCAMPO vegetal multiusos (3000  ml),FRESCAMPO,19950.0,19950.0,3.0,l,6650.0,6650.0,https://tienda.exito.com/aceite-vegetal-frescampo-3000-ml-3082931/p
+2026-10-28,Arroz blanco,Carulla,Arroz ROA blanco fortiplus (3000  gr),ROA,9650.0,12900.0,3.0,kg,3216.67,3217.0,https://secure.carulla.com/arroz-blanco-fortificado-x-3000-g-480324/p
+2026-10-28,Arroz blanco,Jumbo,Arroz Máxima Blanco x5000grs,MAXIMA,15990.0,15990.0,5.0,kg,3198.0,3198.0,https://www.jumbocolombia.com/arroz-maxima-blanco-x5000grs-3650929/p
+2026-10-28,Arroz blanco,Metro,Arroz Máxima Blanco x5000grs,MAXIMA,15990.0,15990.0,5.0,kg,3198.0,3198.0,https://www.jumbocolombia.com/arroz-maxima-blanco-x5000grs-3650929/p
+2026-10-28,Arroz blanco,Olímpica,ARROZ OLIMPICA 2500 G,Olimpica,7990.0,8990.0,2.5,kg,3196.0,3196.0,https://www.olimpica.com/arroz-olimpica-2500-g/p
+2026-10-28,Arroz blanco,Éxito,Arroz EKONO blanco (2000  gr),EKONO,5550.0,5550.0,2.0,kg,2775.0,2775.0,https://tienda.exito.com/arroz-blanco-ekono-2000-gr-3161048/p
+2026-10-28,Atún en lata,Carulla,Atún VAN CAMPS en agua  (320  gr),VAN CAMPS,14750.0,18600.0,0.32,kg,46093.75,7375.0,https://secure.carulla.com/atun-van-camps-agua-80g-x-4-uds-van-camps-atun-agua-320-gr-3258653/p
+2026-10-28,Atún en lata,Jumbo,Atún Isabel Lomitos Agua 3 Unidades 480g,ISABEL,21890.0,21890.0,1.44,kg,15201.39,2432.0,https://www.jumbocolombia.com/atun-isabel-lomitos-agua-3-unidades-480g-364189/p
+2026-10-28,Atún en lata,Metro,Atún Isabel Lomitos Agua 3 Unidades 480g,ISABEL,21890.0,21890.0,1.44,kg,15201.39,2432.0,https://www.jumbocolombia.com/atun-isabel-lomitos-agua-3-unidades-480g-364189/p
+2026-10-28,Atún en lata,Olímpica,Atún Van Camp's Agua 320 G X2 Unds ATUN VAN CAMP´S AGUA PACKS X2 320g,Van Camps,11490.0,15400.0,0.64,kg,17953.12,2872.0,https://www.olimpica.com/atun-van-camp-s-agua-packs-x2-320g/p
+2026-10-28,Atún en lata,Éxito,Lomitos de atún FRESCAMPO en agua x3und (156  gr),FRESCAMPO,8980.0,8980.0,0.468,kg,19188.03,3070.0,https://tienda.exito.com/lomitos-de-atun-frescampo-agua-y-sal-156-gr-3241104/p
+2026-10-28,Avena en hojuelas,Carulla,Avena en Hojuelas EKONO 500  gr,EKONO,2370.0,2370.0,0.5,kg,4740.0,2370.0,https://secure.carulla.com/avena-en-hojuelas-ekono-500-gr-3061024/p
+2026-10-28,Avena en hojuelas,Jumbo,Avena Cuisine&Co hojuelas tradicional x1000g,CUISINE & CO NBE MP,8590.0,8990.0,1.0,kg,8590.0,4295.0,https://www.jumbocolombia.com/avena-cuisine---co-hojuela-tradicional-x-1000g/p
+2026-10-28,Avena en hojuelas,Metro,Avena Cuisine&Co hojuelas tradicional x1000g,CUISINE & CO NBE MP,8590.0,8990.0,1.0,kg,8590.0,4295.0,https://www.jumbocolombia.com/avena-cuisine---co-hojuela-tradicional-x-1000g/p
+2026-10-28,Avena en hojuelas,Olímpica,Avena Medalla de Oro Hojuelas 400 G AVENA MEDALLA ORO HOJUEL 400g,Medalla De Oro,1687.0,2250.0,0.4,kg,4217.5,2109.0,https://www.olimpica.com/avena-medalla-oro-hojuel-400g/p
+2026-10-28,Avena en hojuelas,Éxito,Avena en Hojuelas EKONO 500  gr,EKONO,2350.0,2350.0,0.5,kg,4700.0,2350.0,https://tienda.exito.com/avena-en-hojuelas-ekono-500-gr-3061024/p
+2026-10-28,Azúcar blanca,Carulla,Azúcar MAYAGUEZ blanca (1000  gr),MAYAGUEZ,3560.0,4450.0,1.0,kg,3560.0,3560.0,https://secure.carulla.com/azucar-blanco-especial-x-1000-g-487804/p
+2026-10-28,Azúcar blanca,Jumbo,Azúcar Riopaila blanca x2500g,RIOPAILA,12150.0,12150.0,2.5,kg,4860.0,4860.0,https://www.jumbocolombia.com/azucar-blanco-riopaila-x-2500g/p
+2026-10-28,Azúcar blanca,Metro,Azúcar Riopaila blanca x2500g,RIOPAILA,12150.0,12150.0,2.5,kg,4860.0,4860.0,https://www.jumbocolombia.com/azucar-blanco-riopaila-x-2500g/p
+2026-10-28,Azúcar blanca,Olímpica,"Azúcar Mayagüez Blanca 2,5 Kg AZUCAR MAYAGUEZ BCA 2.5kg",Rebajon,9200.0,11500.0,2.5,kg,3680.0,3680.0,https://www.olimpica.com/azucar-mayaguez-bca-2-5kg/p
+2026-10-28,Azúcar blanca,Éxito,Azúcar MAYAGUEZ blanca (1000  gr),MAYAGUEZ,3560.0,4450.0,1.0,kg,3560.0,3560.0,https://tienda.exito.com/azucar-blanco-especial-x-1000-g-487804/p
+2026-10-28,Café molido,Carulla,Café SELLO ROJO tostado y molido (500  gr),SELLO ROJO,19725.0,26300.0,0.5,kg,39450.0,19725.0,https://secure.carulla.com/cafe-molido-laminado-26947/p
+2026-10-28,Café molido,Jumbo,Cafe Sello Rojo Tradicional Tostado Molido 2500g,SELLO ROJO,103000.0,103000.0,2.5,kg,41200.0,20600.0,https://www.jumbocolombia.com/cafe-sello-rojo-tradicional-tostado-molido-2500g-46322/p
+2026-10-28,Café molido,Metro,Cafe Sello Rojo Tradicional Tostado Molido 2500g,SELLO ROJO,103000.0,103000.0,2.5,kg,41200.0,20600.0,https://www.jumbocolombia.com/cafe-sello-rojo-tradicional-tostado-molido-2500g-46322/p
+2026-10-28,Café molido,Olímpica,Café Olimpica Molido 400 G CAFE OLIMPICA MOL 400 g,Olimpica,11992.0,15990.0,0.4,kg,29980.0,14990.0,https://www.olimpica.com/cafe-olimpica-mol-400-g/p
+2026-10-28,Café molido,Éxito,Café SELLO ROJO tostado y molido (500  gr),SELLO ROJO,19125.0,25500.0,0.5,kg,38250.0,19125.0,https://tienda.exito.com/cafe-molido-laminado-26947/p
+2026-10-28,Crema dental,Carulla,Crema dental Sonrident anticaries  (75  ml),Sonrident,2595.0,5190.0,0.075,l,34600.0,3460.0,https://secure.carulla.com/crema-dental-sonrident-anticaries-a-fresco-f-esmalte-75-ml-3178755/p
+2026-10-28,Crema dental,Jumbo,Crema Dental Family Care Triple Acción x100ml,FAMILY CARE MP,3174.0,5290.0,0.1,l,31740.0,3174.0,https://www.jumbocolombia.com/crema-dental-familycare-triple-accion-x100ml/p
+2026-10-28,Crema dental,Metro,Crema Dental Family Care Triple Acción x100ml,FAMILY CARE MP,3174.0,5290.0,0.1,l,31740.0,3174.0,https://www.jumbocolombia.com/crema-dental-familycare-triple-accion-x100ml/p
+2026-10-28,Crema dental,Olímpica,Crema Dental Suppra Care Triple Acción 100 Ml CREMA DENTAL SUPPRA CARE TRIPLE ACCION 100 ML,Suppra Care,3142.0,4190.0,0.1,l,31420.0,3142.0,https://www.olimpica.com/crema-dental-suppra-care-triple-accion-100-ml/p
+2026-10-28,Crema dental,Éxito,Crema dental COLGATE doble frescura (100  ml),COLGATE,5830.0,5830.0,0.1,l,58300.0,5830.0,https://tienda.exito.com/cremas-colgate-cremas-100-ml-3201232/p
+2026-10-28,Detergente en polvo,Carulla,Detergente en polvo EKONO multiusos aroma limón (2800  gr),EKONO,10850.0,10850.0,2.8,kg,3875.0,3875.0,https://secure.carulla.com/detergente-en-polvo-limon-x-2800-gr-595579/p
+2026-10-28,Detergente en polvo,Jumbo,Detergente maxima multiusos limon polvo x2800g,MAXIMA MP,11352.0,14190.0,2.8,kg,4054.29,4054.0,https://www.jumbocolombia.com/detergente-maxima-multiusos-limon-polvo-x2800g/p
+2026-10-28,Detergente en polvo,Metro,Detergente maxima multiusos limon polvo x2800g,MAXIMA MP,11352.0,14190.0,2.8,kg,4054.29,4054.0,https://www.jumbocolombia.com/detergente-maxima-multiusos-limon-polvo-x2800g/p
+2026-10-28,Detergente en polvo,Olímpica,Detergente Rindex Flores Para Mis Amores Polvo 3 Kg DETERGENTE EN POLVO RINDEX FLORES PARA MIS AMORES 3kg,Rindex,9990.0,9990.0,3.0,kg,3330.0,3330.0,https://www.olimpica.com/detergente-en-polvo-rindex-flores-para-mis-amores-3kg-7500435152822--2120537/p
+2026-10-28,Detergente en polvo,Éxito,Detergente en polvo EKONO multiusos aroma floral (2800  gr),EKONO,10850.0,10850.0,2.8,kg,3875.0,3875.0,https://tienda.exito.com/detergente-en-polvo-floral-x-2800-gr-595469/p
+2026-10-28,Fríjol rojo,Carulla,Frijol FRESCAMPO sabanero rojo (1000  gr),FRESCAMPO,11900.0,11900.0,1.0,kg,11900.0,5950.0,https://secure.carulla.com/frijol-sabanero-rojo-837384/p
+2026-10-28,Fríjol rojo,Jumbo,Frijol Cuisine&Co cargamanto rojo x1000g,CUISINE & CO NBE MP,12990.0,12990.0,1.0,kg,12990.0,6495.0,https://www.jumbocolombia.com/frijol-cuisine-co-cargamanto-rojo-x1000g/p
+2026-10-28,Fríjol rojo,Metro,Frijol Cuisine&Co cargamanto rojo x1000g,CUISINE & CO NBE MP,12990.0,12990.0,1.0,kg,12990.0,6495.0,https://www.jumbocolombia.com/frijol-cuisine-co-cargamanto-rojo-x1000g/p
+2026-10-28,Fríjol rojo,Olímpica,FRIJOL OLIMPICA RADICAL ROJO 1 kg,Olimpica,8372.0,9850.0,1.0,kg,8372.0,4186.0,https://www.olimpica.com/frijol-olimpica-radical-rojo-1-kg-7701008007680-566500/p
+2026-10-28,Fríjol rojo,Éxito,Frijol FRESCAMPO sabanero rojo (1000  gr),FRESCAMPO,11900.0,11900.0,1.0,kg,11900.0,5950.0,https://tienda.exito.com/frijol-sabanero-rojo-837384/p
+2026-10-28,Harina de maíz precocida,Carulla,Harina AREPASAN de maíz blanco (1000  gr),AREPASAN,2450.0,2890.0,1.0,kg,2450.0,2450.0,https://secure.carulla.com/arepasan-harina-de-maiz-blanca-x-1000g-718296/p
+2026-10-28,Harina de maíz precocida,Jumbo,Harina Maiz Blanco 1000g Cuisine & Co,CUISINE & CO NBE MP,2790.0,2990.0,1.0,kg,2790.0,2790.0,https://www.jumbocolombia.com/harina-maiz-blanco-1000g-cuisine-co-368216/p
+2026-10-28,Harina de maíz precocida,Metro,Harina Maiz Blanco 1000g Cuisine & Co,CUISINE & CO NBE MP,2790.0,2990.0,1.0,kg,2790.0,2790.0,https://www.jumbocolombia.com/harina-maiz-blanco-1000g-cuisine-co-368216/p
+2026-10-28,Harina de maíz precocida,Olímpica,Harina Medalla de Oro de Maíz Precocida Blanca 1 Kg HARINA MAIZ MEDALLA ORO BCA 1 kg,Medalla De Oro,1905.0,2540.0,1.0,kg,1905.0,1905.0,https://www.olimpica.com/harina-maiz-medalla-oro-bca-1-kg/p
+2026-10-28,Harina de maíz precocida,Éxito,Harina AREPASAN de maíz blanco (1000  gr),AREPASAN,2450.0,2890.0,1.0,kg,2450.0,2450.0,https://tienda.exito.com/arepasan-harina-de-maiz-blanca-x-1000g-718296/p
+2026-10-28,Huevos,Carulla,Huevos AA SUBASTA blanco (30  und),SUBASTA,16900.0,16900.0,30.0,und,563.33,16900.0,https://secure.carulla.com/huevo-de-30-aa-blanco-subasta-30-und-676700/p
+2026-10-28,Huevos,Jumbo,Huevos San Pio x30und,SAN PIO,12990.0,12990.0,30.0,und,433.0,12990.0,https://www.jumbocolombia.com/huevo-a-bandeja--30unidades-san-pio/p
+2026-10-28,Huevos,Metro,Huevos San Pio x30und,SAN PIO,12990.0,12990.0,30.0,und,433.0,12990.0,https://www.jumbocolombia.com/huevo-a-bandeja--30unidades-san-pio/p
+2026-10-28,Huevos,Olímpica,HUEVO X 30 UND TIPO B HUEVO X 30 UN T/B,SIN MARCA 2,14900.0,14900.0,30.0,und,496.67,14900.0,https://www.olimpica.com/huevo-x-30-un-t-b/p
+2026-10-28,Huevos,Éxito,Huevos A SMN rojo (30  und),SMN,14490.0,14490.0,30.0,und,483.0,14490.0,https://tienda.exito.com/huevo-rojo-a-x-30-insuperable-742696/p
+2026-10-28,Leche entera,Carulla,Leche FRESCAMPO entera UHT bolsa maxilitro (1100  ml),FRESCAMPO,3770.0,3770.0,1.1,l,3427.27,3427.0,https://secure.carulla.com/leche-frescampo-uht-entera-1100-ml-3225370/p
+2026-10-28,Leche entera,Jumbo,Leche Entera Máxima x6 Und x900ml,MAXIMA MP,18490.0,18490.0,5.4,l,3424.07,3424.0,https://www.jumbocolombia.com/leche-entera-maxima-x6-und-x900ml-0786481/p
+2026-10-28,Leche entera,Metro,Leche Entera Máxima x6 Und x900ml,MAXIMA MP,18490.0,18490.0,5.4,l,3424.07,3424.0,https://www.jumbocolombia.com/leche-entera-maxima-x6-und-x900ml-0786481/p
+2026-10-28,Leche entera,Olímpica,"Leche Medalla de Oro Uht Entera 1,1 Lt X6 Unds LECHE UHT MEDALLA ORO ENT 1.1L X6un",Medalla De Oro,21890.0,21890.0,6.6,l,3316.67,3317.0,https://www.olimpica.com/leche-uht-medalla-oro-ent-1-1l-x6un/p
+2026-10-28,Leche entera,Éxito,Leche FRESCAMPO entera UHT maxilitro paquete (6600  ml),FRESCAMPO,22620.0,22620.0,6.6,l,3427.27,3427.0,https://tienda.exito.com/leche-frescampo-uht-entera-6600-ml-3225369/p
+2026-10-28,Lentejas,Carulla,Lenteja FRESCAMPO granos seleccionados  (1000  gr),FRESCAMPO,3180.0,3180.0,1.0,kg,3180.0,1590.0,https://secure.carulla.com/lenteja-frescampo-x-1000-gr-837388/p
+2026-10-28,Lentejas,Jumbo,Lenteja Diana x500g,DIANA,2750.0,2750.0,0.5,kg,5500.0,2750.0,https://www.jumbocolombia.com/lenteja-diana-x-500g/p
+2026-10-28,Lentejas,Metro,Lenteja Diana x500g,DIANA,2750.0,2750.0,0.5,kg,5500.0,2750.0,https://www.jumbocolombia.com/lenteja-diana-x-500g/p
+2026-10-28,Lentejas,Olímpica,LENTEJA OLIMPICA 1 kg,Olimpica,3800.0,3800.0,1.0,kg,3800.0,1900.0,https://www.olimpica.com/lenteja-olimpica-1-kg-7701008001367-990477/p
+2026-10-28,Lentejas,Éxito,Lenteja FRESCAMPO granos seleccionados  (1000  gr),FRESCAMPO,3180.0,3180.0,1.0,kg,3180.0,1590.0,https://tienda.exito.com/lenteja-frescampo-x-1000-gr-837388/p
+2026-10-28,Mantequilla,Carulla,Mantequilla PECONELLO  (500  gr),PECONELLO,20000.0,20000.0,0.5,kg,40000.0,10000.0,https://secure.carulla.com/mantequilla-peconello-500-gr-3248795/p
+2026-10-28,Mantequilla,Jumbo,Mantequilla Superior pasteurizada x200g,SUPERIOR,11390.0,11390.0,0.2,kg,56950.0,14238.0,https://www.jumbocolombia.com/mantequilla-pasteurizada-superior-x-200-g/p
+2026-10-28,Mantequilla,Metro,Mantequilla Superior pasteurizada x200g,SUPERIOR,11390.0,11390.0,0.2,kg,56950.0,14238.0,https://www.jumbocolombia.com/mantequilla-pasteurizada-superior-x-200-g/p
+2026-10-28,Mantequilla,Olímpica,Mantequilla Campi con Sal 500 G + Gratis Campi 250 CERDO CHICHARRON ESP O 500g,Sin Marca,9600.0,12000.0,0.5,kg,19200.0,4800.0,https://www.olimpica.com/cerdo-chicharron-esp-o-500g/p
+2026-10-28,Mantequilla,Éxito,Mantequilla PECONELLO  (500  gr),PECONELLO,19800.0,19800.0,0.5,kg,39600.0,9900.0,https://tienda.exito.com/mantequilla-peconello-500-gr-3248795/p
+2026-10-28,Pan tajado,Carulla,Pan tajado FRESCAMPO blanco (450  gr),FRESCAMPO,2980.0,2990.0,0.45,kg,6622.22,3973.0,https://secure.carulla.com/pan-frescampo-450-gr-3252766/p
+2026-10-28,Pan tajado,Jumbo,Pan Máxima tajado blanco x380g,MAXIMA MP,3890.0,3890.0,0.38,kg,10236.84,6142.0,https://www.jumbocolombia.com/pan-maxima-tajado-blanco-x380g/p
+2026-10-28,Pan tajado,Metro,Pan Máxima tajado blanco x380g,MAXIMA MP,3890.0,3890.0,0.38,kg,10236.84,6142.0,https://www.jumbocolombia.com/pan-maxima-tajado-blanco-x380g/p
+2026-10-28,Pan tajado,Olímpica,Pan Olimpica Tajado Blanco Tradicional 450 G PAN-TAJ-BCO-TRADIC-OLIMPICA-450g,Olimpica,2990.0,2990.0,0.45,kg,6644.44,3987.0,https://www.olimpica.com/pan-taj-bco-tradic-olimpica-450g/p
+2026-10-28,Pan tajado,Éxito,Pan tajado FRESCAMPO blanco (450  gr),FRESCAMPO,2980.0,2980.0,0.45,kg,6622.22,3973.0,https://tienda.exito.com/pan-frescampo-450-gr-3252766/p
+2026-10-28,Panela,Carulla,Panela Redonda x 2 Und PANELA TRADICIÓN DEL CAMPO 830  gr,PANELA TRADICIÓN DEL CAMPO,7000.0,7000.0,1.66,kg,4216.87,2108.0,https://secure.carulla.com/panela-tradicion-del-campo-redonda-x-2-und-panela-tradicion-del-campo-830-gr-3158510/p
+2026-10-28,Panela,Jumbo,Panela Cana Dulce Redonditas x800G Pn,CANA DULCE,6890.0,6890.0,0.8,kg,8612.5,4306.0,https://www.jumbocolombia.com/panela-cana-dulce-redonditas-x800g-pn-364540/p
+2026-10-28,Panela,Metro,Panela Cana Dulce Redonditas x800G Pn,CANA DULCE,6890.0,6890.0,0.8,kg,8612.5,4306.0,https://www.jumbocolombia.com/panela-cana-dulce-redonditas-x800g-pn-364540/p
+2026-10-28,Panela,Olímpica,Panela El Trébol 1000 G X2 Unds PANELA EL TREBOL  2 UND 1000 GR,El Trebol,6750.0,6750.0,2.0,kg,3375.0,1688.0,https://www.olimpica.com/panela-el-trebol--2-und-1000-gr-7707224229400-2001021/p
+2026-10-28,Panela,Éxito,Panela Redonda x 2 Und PANELA TRADICIÓN DEL CAMPO 830  gr,PANELA TRADICIÓN DEL CAMPO,6780.0,6780.0,1.66,kg,4084.34,2042.0,https://tienda.exito.com/panela-tradicion-del-campo-redonda-x-2-und-panela-tradicion-del-campo-830-gr-3158510/p
+2026-10-28,Papel higiénico,Carulla,Papel higiénico ROSAL triple hoja XG x30 rollos (750  mts),ROSAL,36750.0,49000.0,30.0,und,1225.0,14700.0,https://secure.carulla.com/precio-especial-papel-rosal-higienico-triple-hoja-xg-750-mts-3252522/p
+2026-10-28,Papel higiénico,Jumbo,Papel Higiénico Nube Mega Triple Hoja X4 Rollos X30 Mts Cada Uno,NUBE,7770.0,7770.0,30.0,und,259.0,3108.0,https://www.jumbocolombia.com/papel-higienico-nube-mega-triple-hoja-x4-rollos-x30-mts-cada-uno/p
+2026-10-28,Papel higiénico,Metro,Papel Higiénico Nube Mega Triple Hoja X4 Rollos X30 Mts Cada Uno,NUBE,7770.0,7770.0,30.0,und,259.0,3108.0,https://www.jumbocolombia.com/papel-higienico-nube-mega-triple-hoja-x4-rollos-x30-mts-cada-uno/p
+2026-10-28,Papel higiénico,Olímpica,Papel Higiénico Olimpica Mega Rollo Triple Hoja 20 Mts X16 Unds P/HIG OLIMPICA BCO ECN 3H 20m X16,Olimpica,10492.0,13990.0,16.0,und,655.75,7869.0,https://www.olimpica.com/p-hig-olimpica-bco-ecn-3h-20m-x16/p
+2026-10-28,Papel higiénico,Éxito,Papel higiénico ELITE max resistente (18  und),ELITE,22250.0,22250.0,18.0,und,1236.11,14833.0,https://tienda.exito.com/papel-higienico-max-resistente-elite-18-und-3122570/p
+2026-10-28,Queso costeño,Carulla,Queso costeño FRESCAMPO entero (400  gr),FRESCAMPO,11950.0,11950.0,0.4,kg,29875.0,14938.0,https://secure.carulla.com/queso-costeno-entero-frescampo-entero-400-gr-3206521/p
+2026-10-28,Queso costeño,Jumbo,Queso costeño Los Pinos bloque x1000g,MARIA LA VAQUITA ROJA,28690.0,28690.0,1.0,kg,28690.0,14345.0,https://www.jumbocolombia.com/queso-costeño-bloque-los-pinos-x-1000-g/p
+2026-10-28,Queso costeño,Metro,Queso costeño Los Pinos bloque x1000g,MARIA LA VAQUITA ROJA,28690.0,28690.0,1.0,kg,28690.0,14345.0,https://www.jumbocolombia.com/queso-costeño-bloque-los-pinos-x-1000-g/p
+2026-10-28,Queso costeño,Olímpica,Queso Colanta Costeño Bloque 1 Kg QUESO COLANTA COSTEÑO BLOQUE 1kg,Colanta,28040.0,35050.0,1.0,kg,28040.0,14020.0,https://www.olimpica.com/queso-colanta-costeño-bloque-1kg/p
+2026-10-28,Queso costeño,Éxito,Queso costeño FRESCAMPO entero (400  gr),FRESCAMPO,11950.0,11950.0,0.4,kg,29875.0,14938.0,https://tienda.exito.com/queso-costeno-entero-frescampo-entero-400-gr-3206521/p
+2026-10-28,Sal,Carulla,Sal REFISAL alta pureza  (3000  gr),REFISAL,9100.0,9100.0,3.0,kg,3033.33,3033.0,https://secure.carulla.com/sal-refinada-x3000-gramos-refisal-3000-gr-916442/p
+2026-10-28,Sal,Jumbo,Sal Refisal bolsa x1000g,REFISAL,2950.0,2950.0,1.0,kg,2950.0,2950.0,https://www.jumbocolombia.com/bolsa-sal-refisal-x-1000-g/p
+2026-10-28,Sal,Metro,Sal Refisal bolsa x1000g,REFISAL,2950.0,2950.0,1.0,kg,2950.0,2950.0,https://www.jumbocolombia.com/bolsa-sal-refisal-x-1000-g/p
+2026-10-28,Sal,Olímpica,SAL REFISAL 1 kg,Refisal,2580.0,2580.0,1.0,kg,2580.0,2580.0,https://www.olimpica.com/sal-refisal-1-kg/p
+2026-10-28,Sal,Éxito,Sal REFISAL alta pureza  (1000  gr),REFISAL,2950.0,2950.0,1.0,kg,2950.0,2950.0,https://tienda.exito.com/sal-refinada-1000-gr-345053/p
+2026-10-28,Spaghetti,Carulla,Pastas LA NIEVE spaghetti (500  gr),LA NIEVE,2470.0,2470.0,0.5,kg,4940.0,2470.0,https://secure.carulla.com/spaguetti-la-nieve-500-gr-773667/p
+2026-10-28,Spaghetti,Jumbo,Pasta spaghetti Pugliese x1000g,PUGLIESE,5290.0,5290.0,1.0,kg,5290.0,2645.0,https://www.jumbocolombia.com/pasta-spaghetti-puglies-x-1000-g/p
+2026-10-28,Spaghetti,Metro,Pasta spaghetti Pugliese x1000g,PUGLIESE,5290.0,5290.0,1.0,kg,5290.0,2645.0,https://www.jumbocolombia.com/pasta-spaghetti-puglies-x-1000-g/p
+2026-10-28,Spaghetti,Olímpica,PASTA SPAGHETTI FERRARA 500G,Sin Marca,3990.0,3990.0,0.5,kg,7980.0,3990.0,https://www.olimpica.com/pasta-spaghetti-ferrara-500g/p
+2026-10-28,Spaghetti,Éxito,Pastas PAN spaghetti tamaño familiar (1000  gr),PAN,4384.0,6550.0,1.0,kg,4384.0,2192.0,https://tienda.exito.com/pasta-pan-spaghetti-tamano-familiar-1000-gr-3206257/p
+2026-10-29,Aceite vegetal,Carulla,Aceite FRESCAMPO vegetal multiusos (3000  ml),FRESCAMPO,19950,19950,3.0,l,6650.0,6650,https://secure.carulla.com/aceite-vegetal-frescampo-3000-ml-3082931/p
+2026-10-29,Aceite vegetal,Jumbo,Aceite Cuisine&Co Mezcla Vegetal x3000Ml,CUISINE & CO NBE MP,22890,22890,3.0,l,7630.0,7630,https://www.jumbocolombia.com/aceite-cuisine-co-mezcla-vegetal-x3000ml/p
+2026-10-29,Aceite vegetal,Metro,Aceite Cuisine&Co Mezcla Vegetal x3000Ml,CUISINE & CO NBE MP,22890,22890,3.0,l,7630.0,7630,https://www.jumbocolombia.com/aceite-cuisine-co-mezcla-vegetal-x3000ml/p
+2026-10-29,Aceite vegetal,Olímpica,Aceite Medalla de Oro Mezcla Vegetal 3 Lt ACEITE MEDALLA ORO MEZC 3 L.,Medalla De Oro,21490,21490,3.0,l,7163.33,7163,https://www.olimpica.com/aceite-medalla-oro-mezc-3-l-7701008624894-2195130/p
+2026-10-29,Aceite vegetal,Éxito,Aceite FRESCAMPO vegetal multiusos (3000  ml),FRESCAMPO,19950,19950,3.0,l,6650.0,6650,https://tienda.exito.com/aceite-vegetal-frescampo-3000-ml-3082931/p
+2026-10-29,Arroz blanco,Carulla,Arroz ROA blanco fortiplus (3000  gr),ROA,9650,12900,3.0,kg,3216.67,3217,https://secure.carulla.com/arroz-blanco-fortificado-x-3000-g-480324/p
+2026-10-29,Arroz blanco,Jumbo,Arroz Máxima Blanco x5000grs,MAXIMA,15990,15990,5.0,kg,3198.0,3198,https://www.jumbocolombia.com/arroz-maxima-blanco-x5000grs-3650929/p
+2026-10-29,Arroz blanco,Metro,Arroz Máxima Blanco x5000grs,MAXIMA,15990,15990,5.0,kg,3198.0,3198,https://www.jumbocolombia.com/arroz-maxima-blanco-x5000grs-3650929/p
+2026-10-29,Arroz blanco,Olímpica,ARROZ OLIMPICA 2500 G,Olimpica,7990,8990,2.5,kg,3196.0,3196,https://www.olimpica.com/arroz-olimpica-2500-g/p
+2026-10-29,Arroz blanco,Éxito,Arroz EKONO blanco (2000  gr),EKONO,5550,5550,2.0,kg,2775.0,2775,https://tienda.exito.com/arroz-blanco-ekono-2000-gr-3161048/p
+2026-10-29,Atún en lata,Carulla,Atún VAN CAMPS en agua  (320  gr),VAN CAMPS,14750,18600,0.32,kg,46093.75,7375,https://secure.carulla.com/atun-van-camps-agua-80g-x-4-uds-van-camps-atun-agua-320-gr-3258653/p
+2026-10-29,Atún en lata,Jumbo,Atún Isabel Lomitos Agua 3 Unidades 480g,ISABEL,21890,21890,1.44,kg,15201.39,2432,https://www.jumbocolombia.com/atun-isabel-lomitos-agua-3-unidades-480g-364189/p
+2026-10-29,Atún en lata,Metro,Atún Isabel Lomitos Agua 3 Unidades 480g,ISABEL,21890,21890,1.44,kg,15201.39,2432,https://www.jumbocolombia.com/atun-isabel-lomitos-agua-3-unidades-480g-364189/p
+2026-10-29,Atún en lata,Olímpica,ATUN LOMO SOBERANA ACEIT OLI X3 280G,La Soberana,17590,17590,0.84,kg,20940.48,3350,https://www.olimpica.com/atun-lomo-soberana-aceit-oli-x3-280g/p
+2026-10-29,Atún en lata,Éxito,Lomitos de atún FRESCAMPO en agua x3und (156  gr),FRESCAMPO,8980,8980,0.468,kg,19188.03,3070,https://tienda.exito.com/lomitos-de-atun-frescampo-agua-y-sal-156-gr-3241104/p
+2026-10-29,Avena en hojuelas,Carulla,Avena en Hojuelas EKONO 500  gr,EKONO,2370,2370,0.5,kg,4740.0,2370,https://secure.carulla.com/avena-en-hojuelas-ekono-500-gr-3061024/p
+2026-10-29,Avena en hojuelas,Jumbo,Avena Cuisine&Co hojuelas tradicional x1000g,CUISINE & CO NBE MP,8590,8990,1.0,kg,8590.0,4295,https://www.jumbocolombia.com/avena-cuisine---co-hojuela-tradicional-x-1000g/p
+2026-10-29,Avena en hojuelas,Metro,Avena Cuisine&Co hojuelas tradicional x1000g,CUISINE & CO NBE MP,8590,8990,1.0,kg,8590.0,4295,https://www.jumbocolombia.com/avena-cuisine---co-hojuela-tradicional-x-1000g/p
+2026-10-29,Avena en hojuelas,Olímpica,Avena Medalla de Oro Hojuelas 400 G AVENA MEDALLA ORO HOJUEL 400g,Medalla De Oro,1800,2250,0.4,kg,4500.0,2250,https://www.olimpica.com/avena-medalla-oro-hojuel-400g/p
+2026-10-29,Avena en hojuelas,Éxito,Avena en Hojuelas EKONO 500  gr,EKONO,2350,2350,0.5,kg,4700.0,2350,https://tienda.exito.com/avena-en-hojuelas-ekono-500-gr-3061024/p
+2026-10-29,Azúcar blanca,Carulla,Azúcar MAYAGUEZ blanca (1000  gr),MAYAGUEZ,3560,4450,1.0,kg,3560.0,3560,https://secure.carulla.com/azucar-blanco-especial-x-1000-g-487804/p
+2026-10-29,Azúcar blanca,Jumbo,Azúcar Providencia blanca x2.5kg,PROVIDENCIA,11890,11890,2.5,kg,4756.0,4756,https://www.jumbocolombia.com/azucar-blanco-2-5kg-providencia/p
+2026-10-29,Azúcar blanca,Metro,Azúcar Providencia blanca x2.5kg,PROVIDENCIA,11890,11890,2.5,kg,4756.0,4756,https://www.jumbocolombia.com/azucar-blanco-2-5kg-providencia/p
+2026-10-29,Azúcar blanca,Olímpica,"Azúcar Olimpica Blanca 2,5 Kg",Olimpica,9900,9900,2.5,kg,3960.0,3960,https://www.olimpica.com/azucar-blanca-olimpica-2-5-kg/p
+2026-10-29,Azúcar blanca,Éxito,Azúcar MAYAGUEZ blanca (1000  gr),MAYAGUEZ,3560,4450,1.0,kg,3560.0,3560,https://tienda.exito.com/azucar-blanco-especial-x-1000-g-487804/p
+2026-10-29,Café molido,Carulla,Café SELLO ROJO tostado y molido (500  gr),SELLO ROJO,19725,26300,0.5,kg,39450.0,19725,https://secure.carulla.com/cafe-molido-laminado-26947/p
+2026-10-29,Café molido,Jumbo,Cafe Sello Rojo Tradicional Tostado Molido 2500g,SELLO ROJO,103000,103000,2.5,kg,41200.0,20600,https://www.jumbocolombia.com/cafe-sello-rojo-tradicional-tostado-molido-2500g-46322/p
+2026-10-29,Café molido,Metro,Cafe Sello Rojo Tradicional Tostado Molido 2500g,SELLO ROJO,103000,103000,2.5,kg,41200.0,20600,https://www.jumbocolombia.com/cafe-sello-rojo-tradicional-tostado-molido-2500g-46322/p
+2026-10-29,Café molido,Olímpica,Café Medalla de Oro Molido 500 G CAFE MEDALLA ORO MOL 500 g,Medalla De Oro,18900,19900,0.5,kg,37800.0,18900,https://www.olimpica.com/cafe-medalla-oro-mol-500-g/p
+2026-10-29,Café molido,Éxito,Café SELLO ROJO tostado y molido (500  gr),SELLO ROJO,19125,25500,0.5,kg,38250.0,19125,https://tienda.exito.com/cafe-molido-laminado-26947/p
+2026-10-29,Crema dental,Carulla,Crema dental Sonrident anticaries  (75  ml),Sonrident,2595,5190,0.075,l,34600.0,3460,https://secure.carulla.com/crema-dental-sonrident-anticaries-a-fresco-f-esmalte-75-ml-3178755/p
+2026-10-29,Crema dental,Jumbo,Crema Dental Family Care Triple Acción x100ml,FAMILY CARE MP,3174,5290,0.1,l,31740.0,3174,https://www.jumbocolombia.com/crema-dental-familycare-triple-accion-x100ml/p
+2026-10-29,Crema dental,Metro,Crema Dental Family Care Triple Acción x100ml,FAMILY CARE MP,3174,5290,0.1,l,31740.0,3174,https://www.jumbocolombia.com/crema-dental-familycare-triple-accion-x100ml/p
+2026-10-29,Crema dental,Olímpica,Crema Dental Suppra Care Triple Acción 100 Ml X3 Unds CREMA DENTAL SUPPRA CARE TRIPLE ACCION 100ML X3,Suppra Care,10600,10600,0.3,l,35333.33,3533,https://www.olimpica.com/crema-dental-suppra-care-triple-accion-100ml-x3/p
+2026-10-29,Crema dental,Éxito,Crema dental COLGATE doble frescura (100  ml),COLGATE,6070,6070,0.1,l,60700.0,6070,https://tienda.exito.com/cremas-colgate-cremas-100-ml-3201232/p
+2026-10-29,Detergente en polvo,Carulla,Detergente en polvo EKONO multiusos aroma floral (2800  gr),EKONO,10850,10850,2.8,kg,3875.0,3875,https://secure.carulla.com/detergente-en-polvo-floral-x-2800-gr-595469/p
+2026-10-29,Detergente en polvo,Jumbo,Detergente maxima multiusos limon polvo x2800g,MAXIMA MP,14190,14190,2.8,kg,5067.86,5068,https://www.jumbocolombia.com/detergente-maxima-multiusos-limon-polvo-x2800g/p
+2026-10-29,Detergente en polvo,Metro,Detergente maxima multiusos limon polvo x2800g,MAXIMA MP,14190,14190,2.8,kg,5067.86,5068,https://www.jumbocolombia.com/detergente-maxima-multiusos-limon-polvo-x2800g/p
+2026-10-29,Detergente en polvo,Olímpica,Detergente Rindex Flores Para Mis Amores Polvo 3 Kg DETERGENTE EN POLVO RINDEX FLORES PARA MIS AMORES 3kg,Rindex,9990,9990,3.0,kg,3330.0,3330,https://www.olimpica.com/detergente-en-polvo-rindex-flores-para-mis-amores-3kg-7500435152822--2120537/p
+2026-10-29,Detergente en polvo,Éxito,Detergente en polvo EKONO multiusos aroma floral (2800  gr),EKONO,10850,10850,2.8,kg,3875.0,3875,https://tienda.exito.com/detergente-en-polvo-floral-x-2800-gr-595469/p
+2026-10-29,Fríjol rojo,Carulla,Frijol FRESCAMPO sabanero rojo (1000  gr),FRESCAMPO,11900,11900,1.0,kg,11900.0,5950,https://secure.carulla.com/frijol-sabanero-rojo-837384/p
+2026-10-29,Fríjol rojo,Jumbo,Frijol Cuisine&Co cargamanto rojo x1000g,CUISINE & CO NBE MP,12990,12990,1.0,kg,12990.0,6495,https://www.jumbocolombia.com/frijol-cuisine-co-cargamanto-rojo-x1000g/p
+2026-10-29,Fríjol rojo,Metro,Frijol Cuisine&Co cargamanto rojo x1000g,CUISINE & CO NBE MP,12990,12990,1.0,kg,12990.0,6495,https://www.jumbocolombia.com/frijol-cuisine-co-cargamanto-rojo-x1000g/p
+2026-10-29,Fríjol rojo,Olímpica,FRIJOL OLIMPICA RADICAL ROJO 1 kg,Olimpica,9850,9850,1.0,kg,9850.0,4925,https://www.olimpica.com/frijol-olimpica-radical-rojo-1-kg-7701008007680-566500/p
+2026-10-29,Fríjol rojo,Éxito,Frijol FRESCAMPO sabanero rojo (1000  gr),FRESCAMPO,11900,11900,1.0,kg,11900.0,5950,https://tienda.exito.com/frijol-sabanero-rojo-837384/p
+2026-10-29,Harina de maíz precocida,Carulla,Harina AREPASAN de maíz blanco (1000  gr),AREPASAN,2450,2890,1.0,kg,2450.0,2450,https://secure.carulla.com/arepasan-harina-de-maiz-blanca-x-1000g-718296/p
+2026-10-29,Harina de maíz precocida,Jumbo,Harina Maiz Blanco 1000g Cuisine & Co,CUISINE & CO NBE MP,2790,2990,1.0,kg,2790.0,2790,https://www.jumbocolombia.com/harina-maiz-blanco-1000g-cuisine-co-368216/p
+2026-10-29,Harina de maíz precocida,Metro,Harina Maiz Blanco 1000g Cuisine & Co,CUISINE & CO NBE MP,2790,2990,1.0,kg,2790.0,2790,https://www.jumbocolombia.com/harina-maiz-blanco-1000g-cuisine-co-368216/p
+2026-10-29,Harina de maíz precocida,Olímpica,Harina Medalla de Oro de Maíz Precocida Blanca 1 Kg HARINA MAIZ MEDALLA ORO BCA 1 kg,Medalla De Oro,2540,2540,1.0,kg,2540.0,2540,https://www.olimpica.com/harina-maiz-medalla-oro-bca-1-kg/p
+2026-10-29,Harina de maíz precocida,Éxito,Harina AREPASAN de maíz blanco (1000  gr),AREPASAN,2450,2890,1.0,kg,2450.0,2450,https://tienda.exito.com/arepasan-harina-de-maiz-blanca-x-1000g-718296/p
+2026-10-29,Huevos,Carulla,Huevos AA SUBASTA blanco (30  und),SUBASTA,16900,16900,30.0,und,563.33,16900,https://secure.carulla.com/huevo-de-30-aa-blanco-subasta-30-und-676700/p
+2026-10-29,Huevos,Jumbo,Huevos San Pio x30und,SAN PIO,12990,12990,30.0,und,433.0,12990,https://www.jumbocolombia.com/huevo-a-bandeja--30unidades-san-pio/p
+2026-10-29,Huevos,Metro,Huevos San Pio x30und,SAN PIO,12990,12990,30.0,und,433.0,12990,https://www.jumbocolombia.com/huevo-a-bandeja--30unidades-san-pio/p
+2026-10-29,Huevos,Olímpica,HUEVO X 30 UND TIPO B HUEVO X 30 UN T/B,SIN MARCA 2,14900,14900,30.0,und,496.67,14900,https://www.olimpica.com/huevo-x-30-un-t-b/p
+2026-10-29,Huevos,Éxito,Huevos A SMN rojo (30  und),SMN,14490,14490,30.0,und,483.0,14490,https://tienda.exito.com/huevo-rojo-a-x-30-insuperable-742696/p
+2026-10-29,Leche entera,Carulla,Leche FRESCAMPO entera UHT bolsa maxilitro (1100  ml),FRESCAMPO,3770,3770,1.1,l,3427.27,3427,https://secure.carulla.com/leche-frescampo-uht-entera-1100-ml-3225370/p
+2026-10-29,Leche entera,Jumbo,Leche Entera Máxima x6 Und x900ml,MAXIMA MP,18490,18490,5.4,l,3424.07,3424,https://www.jumbocolombia.com/leche-entera-maxima-x6-und-x900ml-0786481/p
+2026-10-29,Leche entera,Metro,Leche Entera Máxima x6 Und x900ml,MAXIMA MP,18490,18490,5.4,l,3424.07,3424,https://www.jumbocolombia.com/leche-entera-maxima-x6-und-x900ml-0786481/p
+2026-10-29,Leche entera,Olímpica,"Leche Medalla de Oro Uht Entera 1,1 Lt X6 Unds LECHE UHT MEDALLA ORO ENT 1.1L X6un",Medalla De Oro,21890,21890,6.6,l,3316.67,3317,https://www.olimpica.com/leche-uht-medalla-oro-ent-1-1l-x6un/p
+2026-10-29,Leche entera,Éxito,Leche FRESCAMPO entera UHT maxilitro paquete (6600  ml),FRESCAMPO,22620,22620,6.6,l,3427.27,3427,https://tienda.exito.com/leche-frescampo-uht-entera-6600-ml-3225369/p
+2026-10-29,Lentejas,Carulla,Lenteja FRESCAMPO granos seleccionados  (1000  gr),FRESCAMPO,3180,3180,1.0,kg,3180.0,1590,https://secure.carulla.com/lenteja-frescampo-x-1000-gr-837388/p
+2026-10-29,Lentejas,Jumbo,Lenteja Diana x500g,DIANA,2750,2750,0.5,kg,5500.0,2750,https://www.jumbocolombia.com/lenteja-diana-x-500g/p
+2026-10-29,Lentejas,Metro,Lenteja Diana x500g,DIANA,2750,2750,0.5,kg,5500.0,2750,https://www.jumbocolombia.com/lenteja-diana-x-500g/p
+2026-10-29,Lentejas,Olímpica,LENTEJA OLIMPICA 1 kg,Olimpica,3800,3800,1.0,kg,3800.0,1900,https://www.olimpica.com/lenteja-olimpica-1-kg-7701008001367-990477/p
+2026-10-29,Lentejas,Éxito,Lenteja FRESCAMPO granos seleccionados  (1000  gr),FRESCAMPO,3180,3180,1.0,kg,3180.0,1590,https://tienda.exito.com/lenteja-frescampo-x-1000-gr-837388/p
+2026-10-29,Mantequilla,Carulla,Mantequilla PECONELLO  (500  gr),PECONELLO,20000,20000,0.5,kg,40000.0,10000,https://secure.carulla.com/mantequilla-peconello-500-gr-3248795/p
+2026-10-29,Mantequilla,Jumbo,Mantequilla Superior pasteurizada x200g,SUPERIOR,11390,11390,0.2,kg,56950.0,14238,https://www.jumbocolombia.com/mantequilla-pasteurizada-superior-x-200-g/p
+2026-10-29,Mantequilla,Metro,Mantequilla Superior pasteurizada x200g,SUPERIOR,11390,11390,0.2,kg,56950.0,14238,https://www.jumbocolombia.com/mantequilla-pasteurizada-superior-x-200-g/p
+2026-10-29,Mantequilla,Olímpica,Mantequilla Campi con Sal 500 G + Gratis Campi 250 CERDO CHICHARRON ESP O 500g,Sin Marca,12000,12000,0.5,kg,24000.0,6000,https://www.olimpica.com/cerdo-chicharron-esp-o-500g/p
+2026-10-29,Mantequilla,Éxito,Mantequilla PECONELLO  (500  gr),PECONELLO,19800,19800,0.5,kg,39600.0,9900,https://tienda.exito.com/mantequilla-peconello-500-gr-3248795/p
+2026-10-29,Pan tajado,Carulla,Pan tajado FRESCAMPO blanco (450  gr),FRESCAMPO,2980,2990,0.45,kg,6622.22,3973,https://secure.carulla.com/pan-frescampo-450-gr-3252766/p
+2026-10-29,Pan tajado,Jumbo,Pan Máxima tajado blanco x380g,MAXIMA MP,3890,3890,0.38,kg,10236.84,6142,https://www.jumbocolombia.com/pan-maxima-tajado-blanco-x380g/p
+2026-10-29,Pan tajado,Metro,Pan Máxima tajado blanco x380g,MAXIMA MP,3890,3890,0.38,kg,10236.84,6142,https://www.jumbocolombia.com/pan-maxima-tajado-blanco-x380g/p
+2026-10-29,Pan tajado,Olímpica,Pan Olimpica Tajado Blanco Tradicional 450 G PAN-TAJ-BCO-TRADIC-OLIMPICA-450g,Olimpica,3270,3270,0.45,kg,7266.67,4360,https://www.olimpica.com/pan-taj-bco-tradic-olimpica-450g/p
+2026-10-29,Pan tajado,Éxito,Pan tajado FRESCAMPO blanco (450  gr),FRESCAMPO,2980,2990,0.45,kg,6622.22,3973,https://tienda.exito.com/pan-frescampo-450-gr-3252766/p
+2026-10-29,Panela,Carulla,Panela Redonda x 2 Und PANELA TRADICIÓN DEL CAMPO 830  gr,PANELA TRADICIÓN DEL CAMPO,7000,7000,1.66,kg,4216.87,2108,https://secure.carulla.com/panela-tradicion-del-campo-redonda-x-2-und-panela-tradicion-del-campo-830-gr-3158510/p
+2026-10-29,Panela,Jumbo,Panela Cana Dulce Redonditas x800G Pn,CANA DULCE,6890,6890,0.8,kg,8612.5,4306,https://www.jumbocolombia.com/panela-cana-dulce-redonditas-x800g-pn-364540/p
+2026-10-29,Panela,Metro,Panela Cana Dulce Redonditas x800G Pn,CANA DULCE,6890,6890,0.8,kg,8612.5,4306,https://www.jumbocolombia.com/panela-cana-dulce-redonditas-x800g-pn-364540/p
+2026-10-29,Panela,Olímpica,Panela Olimpica Redonda 500 G X4 Unds PANELIN OLIMPICA REDONDA 500 g 4 un,Olimpica,3450,3450,2.0,kg,1725.0,862,https://www.olimpica.com/panelin-olimpica-redonda-500-g-4-un-7701008188020-2001069/p
+2026-10-29,Panela,Éxito,Panela Redonda x 2 Und PANELA TRADICIÓN DEL CAMPO 830  gr,PANELA TRADICIÓN DEL CAMPO,6780,6780,1.66,kg,4084.34,2042,https://tienda.exito.com/panela-tradicion-del-campo-redonda-x-2-und-panela-tradicion-del-campo-830-gr-3158510/p
+2026-10-29,Papel higiénico,Carulla,Papel higiénico ROSAL triple hoja XG x30 rollos (750  mts),ROSAL,36750,49000,30.0,und,1225.0,14700,https://secure.carulla.com/precio-especial-papel-rosal-higienico-triple-hoja-xg-750-mts-3252522/p
+2026-10-29,Papel higiénico,Jumbo,Papel Higiénico Nube Mega Triple Hoja X4 Rollos X30 Mts Cada Uno,NUBE,7770,7770,30.0,und,259.0,3108,https://www.jumbocolombia.com/papel-higienico-nube-mega-triple-hoja-x4-rollos-x30-mts-cada-uno/p
+2026-10-29,Papel higiénico,Metro,Papel Higiénico Nube Mega Triple Hoja X4 Rollos X30 Mts Cada Uno,NUBE,7770,7770,30.0,und,259.0,3108,https://www.jumbocolombia.com/papel-higienico-nube-mega-triple-hoja-x4-rollos-x30-mts-cada-uno/p
+2026-10-29,Papel higiénico,Olímpica,Papel Higiénico Olimpica Mega Rollo Triple Hoja 20 Mts X16 Unds P/HIG OLIMPICA BCO ECN 3H 20m X16,Olimpica,13990,13990,16.0,und,874.38,10492,https://www.olimpica.com/p-hig-olimpica-bco-ecn-3h-20m-x16/p
+2026-10-29,Papel higiénico,Éxito,Papel higiénico ELITE max resistente (18  und),ELITE,22250,22250,18.0,und,1236.11,14833,https://tienda.exito.com/papel-higienico-max-resistente-elite-18-und-3122570/p
+2026-10-29,Queso costeño,Carulla,Queso costeño FRESCAMPO entero (400  gr),FRESCAMPO,11950,11950,0.4,kg,29875.0,14938,https://secure.carulla.com/queso-costeno-entero-frescampo-entero-400-gr-3206521/p
+2026-10-29,Queso costeño,Jumbo,Queso costeño Los Pinos bloque x1000g,MARIA LA VAQUITA ROJA,27990,27990,1.0,kg,27990.0,13995,https://www.jumbocolombia.com/queso-costeño-bloque-los-pinos-x-1000-g/p
+2026-10-29,Queso costeño,Metro,Queso costeño Los Pinos bloque x1000g,MARIA LA VAQUITA ROJA,27990,27990,1.0,kg,27990.0,13995,https://www.jumbocolombia.com/queso-costeño-bloque-los-pinos-x-1000-g/p
+2026-10-29,Queso costeño,Olímpica,Queso Colanta Costeño Bloque 1 Kg QUESO COLANTA COSTEÑO BLOQUE 1kg,Colanta,28040,35050,1.0,kg,28040.0,14020,https://www.olimpica.com/queso-colanta-costeño-bloque-1kg/p
+2026-10-29,Queso costeño,Éxito,Queso costeño FRESCAMPO entero (400  gr),FRESCAMPO,11950,11950,0.4,kg,29875.0,14938,https://tienda.exito.com/queso-costeno-entero-frescampo-entero-400-gr-3206521/p
+2026-10-29,Sal,Carulla,Sal REFISAL alta pureza  (3000  gr),REFISAL,9100,9100,3.0,kg,3033.33,3033,https://secure.carulla.com/sal-refinada-x3000-gramos-refisal-3000-gr-916442/p
+2026-10-29,Sal,Jumbo,Sal Refisal bolsa x1000g,REFISAL,2950,2950,1.0,kg,2950.0,2950,https://www.jumbocolombia.com/bolsa-sal-refisal-x-1000-g/p
+2026-10-29,Sal,Metro,Sal Refisal bolsa x1000g,REFISAL,2950,2950,1.0,kg,2950.0,2950,https://www.jumbocolombia.com/bolsa-sal-refisal-x-1000-g/p
+2026-10-29,Sal,Olímpica,SAL NATUSAL 1 kg,Natusal,2650,2650,1.0,kg,2650.0,2650,https://www.olimpica.com/sal-natusal-1-kg/p
+2026-10-29,Sal,Éxito,Sal REFISAL alta pureza  (3000  gr),REFISAL,8630,8630,3.0,kg,2876.67,2877,https://tienda.exito.com/sal-refinada-x3000-gramos-refisal-3000-gr-916442/p
+2026-10-29,Spaghetti,Carulla,Pastas LA MUNECA spaghetti (1000  gr),LA MUNECA,4877,6900,1.0,kg,4877.0,2438,https://secure.carulla.com/pasta-spaguetti-1000-gr-755424/p
+2026-10-29,Spaghetti,Jumbo,Pasta spaghetti Pugliese x1000g,PUGLIESE,5290,5290,1.0,kg,5290.0,2645,https://www.jumbocolombia.com/pasta-spaghetti-puglies-x-1000-g/p
+2026-10-29,Spaghetti,Metro,Pasta spaghetti Pugliese x1000g,PUGLIESE,5290,5290,1.0,kg,5290.0,2645,https://www.jumbocolombia.com/pasta-spaghetti-puglies-x-1000-g/p
+2026-10-29,Spaghetti,Olímpica,PASTA SPAGHETTI FERRARA 500G,Sin Marca,3990,3990,0.5,kg,7980.0,3990,https://www.olimpica.com/pasta-spaghetti-ferrara-500g/p
+2026-10-29,Spaghetti,Éxito,Pastas PAN spaghetti tamaño familiar (1000  gr),PAN,4384,6550,1.0,kg,4384.0,2192,https://tienda.exito.com/pasta-pan-spaghetti-tamano-familiar-1000-gr-3206257/p
