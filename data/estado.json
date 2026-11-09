@@ -1,12 +1,10 @@
 {
-  "actualizado": "2026-11-08T12:13-05:00",
+  "actualizado": "2026-11-09T16:37-05:00",
   "tiendas": {
     "Olímpica": {
-      "encontrados": 19,
+      "encontrados": 20,
       "total": 20,
-      "errores": [
-        "Sal: HTTP 500"
-      ],
+      "errores": [],
       "sin_coincidencia": {}
     },
     "Éxito": {
@@ -22,9 +20,11 @@
       "sin_coincidencia": {}
     },
     "Jumbo": {
-      "encontrados": 20,
+      "encontrados": 19,
       "total": 20,
-      "errores": [],
+      "errores": [
+        "Spaghetti: HTTP 500"
+      ],
       "sin_coincidencia": {}
     },
     "Metro": {
@@ -39,7 +39,7 @@
     "chat_id_secreto": true,
     "chat_detectado": false,
     "mensajes_en_bandeja": null,
-    "enviados": 1,
+    "enviados": 2,
     "errores": []
   }
 }
