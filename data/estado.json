@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-10T13:47-05:00",
+  "actualizado": "2026-11-11T13:51-05:00",
   "tiendas": {
     "Olímpica": {
       "encontrados": 20,
@@ -8,9 +8,14 @@
       "sin_coincidencia": {}
     },
     "Éxito": {
-      "encontrados": 20,
+      "encontrados": 0,
       "total": 20,
-      "errores": [],
+      "errores": [
+        "Arroz blanco: HTTP 403",
+        "Aceite vegetal: HTTP 403",
+        "Azúcar blanca: HTTP 403",
+        "(se omiten los demás productos de esta tienda)"
+      ],
       "sin_coincidencia": {}
     },
     "Carulla": {
