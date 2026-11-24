@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-23T17:52-05:00",
+  "actualizado": "2026-11-24T16:28-05:00",
   "tiendas": {
     "Olímpica": {
       "encontrados": 20,
@@ -42,7 +42,7 @@
     "chat_id_secreto": true,
     "chat_detectado": false,
     "mensajes_en_bandeja": null,
-    "enviados": 2,
+    "enviados": 1,
     "errores": []
   }
 }
