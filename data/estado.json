@@ -1,12 +1,10 @@
 {
-  "actualizado": "2026-11-26T15:29-05:00",
+  "actualizado": "2026-11-27T15:15-05:00",
   "tiendas": {
     "Olímpica": {
-      "encontrados": 19,
+      "encontrados": 20,
       "total": 20,
-      "errores": [
-        "Crema dental: HTTP 500"
-      ],
+      "errores": [],
       "sin_coincidencia": {}
     },
     "Éxito": {
